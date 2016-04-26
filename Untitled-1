@@ -1,0 +1,46 @@
+epoch                    epoch : epochDate,
+                    base : {
+a                        a : orbitalElements.a * ns.AU,
+e                        e : orbitalElements.e,
+w                        w : orbitalElements.peri,
+ma                        M : orbitalElements.M,
+i                        i : orbitalElements.i,
+om                        o : orbitalElements.node
+                    },
+                    day : {
+per                        M : 360 / orbitalElements.period
+
+
+
+
+
+orbit: {
+                    epoch : "20160113.0000000",
+                    base : {
+                        a : 1.45787774640981000000 * ns.AU,
+                        e : 0.22267865886036980000,
+                        w : 178.79803679622130000000,
+                        M : 95.36114806088854000000,
+                        i : 10.82860235235547000000,
+                        o : 304.32981827813990000000
+                    },
+                    day : {
+                        M : 360 / 642.95427314470040000000
+                    }   
+		}
+
+        fields.add("asteroid.id");
+
+        fields.add("asteroid.full_name");
+        fields.add("asteroid.diameter");
+        fields.add("asteroid.spec_B");
+        fields.add("asteroid.spec_T");
+        fields.add("asteroid.epoch_cal");
+        fields.add("asteroid.e");
+        fields.add("asteroid.a");
+        fields.add("asteroid.q");
+        fields.add("asteroid.i");
+        fields.add("asteroid.om");
+        fields.add("asteroid.w");
+        fields.add("asteroid.ma");
+        fields.add("asteroid.per");

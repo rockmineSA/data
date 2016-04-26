@@ -1,0 +1,102 @@
+"spec_b","component","x"
+"A",,
+"C","nickel",0.014
+"C","iron",0.166
+"C","cobalt",0.002
+"C","water",0.2
+"C","nitrogen",0.001
+"C","hydrogen",0.235
+"C","ammonia",0.001 
+"B","iron",10
+"B","hydrogen",0.235
+"B","ammonia",0.001
+"B","nitrogen",0.001 
+"E",,
+"D","water",2.3e-05 
+"C type","nickel",0.014
+"C type","iron",0.166
+"C type","cobalt",0.002
+"C type","water",0.2
+"C type","nitrogen",0.001
+"C type","hydrogen",0.235
+"C type","ammonia",0.001 
+"Sr","magnesium silicate",1e-30
+"Sr","iron silicate",0 
+"K","nickel",0.007
+"K","iron",0.083
+"K","cobalt",0.001
+"K","water",0.1
+"K","nitrogen",0.001
+"K","hydrogen",0.235
+"K","ammonia",0.001 
+"V","magnesium silicate",1e-30
+"V","iron silicate",0 
+"M","nickel",10
+"M","iron",88
+"M","cobalt",0.5 
+"L","magnesium silicate",1e-30
+"L","aluminum",7
+"L","iron silicate",0 
+"Ld","magnesium silicate",1e-30
+"Ld","iron silicate",0 
+"Sk","magnesium silicate",1e-30
+"Sk","iron silicate",0 
+"P","water",12.5 
+"S","magnesium silicate",1e-30
+"S","iron silicate",0 
+"R","magnesium silicate",1e-30
+"R","iron silicate",0 
+"U",,
+"O","platinum",1.25
+"O","nickel-iron",2.965 
+"X","nickel",10
+"X","iron",88
+"X","cobalt",0.5 
+"Sl","magnesium silicate",1e-30
+"Sl","iron silicate",0 
+"S(IV)","magnesium silicate",1e-30
+"S(IV)","iron silicate",0 
+"Sa","magnesium silicate",5e-31
+"Sa","iron silicate",0 
+"Cgh","nickel",0.014
+"Cgh","iron",0.166
+"Cgh","cobalt",0.002
+"Cgh","water",0.2
+"Cgh","nitrogen",0.001
+"Cgh","hydrogen",0.235
+"Cgh","ammonia",0.001 
+"Ch","nickel",0.014
+"Ch","iron",0.166
+"Ch","cobalt",0.002
+"Ch","water",0.2
+"Ch","nitrogen",0.001
+"Ch","hydrogen",0.235
+"Ch","ammonia",0.001
+"Cb","nickel",0.007
+"Cb","iron",0.083
+"Cb","cobalt",0.001
+"Cb","water",0.1
+"Cb","nitrogen",0.001
+"Cb","hydrogen",0.235
+"Cb","ammonia",0.001 
+"Cg","nickel",0.014
+"Cg","iron",0.166
+"Cg","cobalt",0.002
+"Cg","water",0.2
+"Cg","nitrogen",0.001
+"Cg","hydrogen",0.235
+"Cg","ammonia",0.001 
+"Xe","nickel",10
+"Xe","iron",88
+"Xe","cobalt",0.5 
+"Q","nickel-iron",13.315 
+"Xk","nickel",10
+"Xk","iron",88
+"Xk","cobalt",0.5
+"Xc","platinum",0.005
+"Xc","nickel",10
+"Xc","iron",88
+"Xc","cobalt",0.5
+"Sq","magnesium silicate",1e-30
+"Sq","iron silicate",0 
+"T","iron",6

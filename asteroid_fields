@@ -1,0 +1,78 @@
+
+
+
+object internal database ID
+object primary SPK-ID
+object full name/designation
+object primary designation
+object IAU name
+comet designation prefix
+Near-Earth Object (NEO) flag (Y/N)
+Potentially Hazardous Asteroid (PHA) flag (Y/N)
+[ H ] absolute magnitude parameter (mag)
+[ G ] magnitude slope parameter (default is 0.15)
+[ M1 ] comet total magnitude parameter (mag)
+[ M2 ] comet nuclear magnitude parameter (mag)
+[ K1 ] comet total magnitude slope parameter
+[ K2 ] comet nuclear magnitude slope parameter
+[ PC ] comet nuclear magnitude law - phase coefficient
+object diameter (from equivalent sphere) (km)
+object bi/tri-axial ellipsoid dimensions (km)
+geometric albedo
+rotation period (h)
+[ GM ] mass expressed as product mass and grav. const. G (km^3/s^2)
+color index B-V (mag)
+color index U-B (mag)
+color index I-R (mag)
+spectral taxonomic type (SMASSII)
+spectral taxonomic type (Tholen)
+1-sigma uncertainty in abs. mag. param. H (mag)
+1-sigma uncertainty in object diameter (km)
+orbit solution ID
+epoch of osculation (JED)
+epoch of osculation (MJD)
+epoch of osculation (ET)
+equinox of reference frame
+[ e ] eccentricity
+[ a ] semi-major axis (AU)
+[ q ] perihelion distance (AU)
+[ i ] inclination (deg)
+longitude of the ascending node (deg)
+argument of perihelion (deg)
+[ M ] mean anomaly (deg)
+[ Q ] aphelion distance (AU)
+[ n ] mean motion (deg/d)
+time of perihelion passage (JED)
+time of perihelion passage (ET)
+orbital period (d)
+orbital period (years)
+Earth Minimum Orbit Intersection Distance (AU)
+Earth Minimum Orbit Intersection Distance (LD)
+Jupiter Minimum Orbit Intersection Distance (AU)
+Jupiter Tisserand Invariant
+eccentricity (1-sigma uncertainty)
+semi-major axis (1-sigma uncertainty) (AU)
+perihelion distance (1-sigma uncertainty) (AU)
+inclination (1-sigma uncertainty) (deg)
+long. of the asc. node (1-sigma uncertainty) (deg)
+argument of perihelion (1-sigma uncertainty) (deg)
+mean anomaly (1-sigma uncertainty) (deg)
+aphelion distance (1-sigma uncertainty) (AU)
+mean motion (deg/d)
+time of peri. passage (1-sigma uncertainty) (d)
+orbital period (1-sigma uncertainty) (d)
+orbit classification
+name of person (or institution) who computed the orbit
+number of days spanned by the data-arc (d)
+date of first observation used in the orbit fit (UT)
+date of last observation used in the orbit fit (UT)
+number of observations (all types) used in fit
+number of delay-radar observations used in fit
+number of Doppler-radar observations used in fit
+orbit condition code (MPC &#39;U&#39; parameter)
+normalized RMS of orbit fit (arcsec)
+2-body dynamics used flag (T/F)
+[ A1 ] non-grav. radial parameter
+[ A2 ] non-grav. transverse parameter
+[ A3 ] non-grav. normal parameter
+[ DT ] non-grav. peri.-maximum offset (d)

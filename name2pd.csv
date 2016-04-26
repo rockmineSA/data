@@ -1,0 +1,2173 @@
+"       (2009 DD45)",2009 DD45
+"     1 Ceres",
+"     2 Pallas",
+"     3 Juno",
+"     4 Vesta",
+"     5 Astraea",
+"     6 Hebe",
+"     7 Iris",
+"     8 Flora",
+"     9 Metis",
+"    10 Hygiea",
+"    11 Parthenope",
+"    12 Victoria",
+"    13 Egeria",
+"    14 Irene",
+"    15 Eunomia",
+"    16 Psyche",
+"    17 Thetis",
+"    18 Melpomene",
+"    19 Fortuna",
+"    20 Massalia",
+"    21 Lutetia",
+"    22 Kalliope",
+"    23 Thalia",
+"    24 Themis",
+"    25 Phocaea",
+"    26 Proserpina",
+"    27 Euterpe",
+"    28 Bellona",
+"    29 Amphitrite",
+"    30 Urania",
+"    31 Euphrosyne",
+"    32 Pomona",
+"    33 Polyhymnia",
+"    34 Circe",
+"    35 Leukothea",
+"    36 Atalante",
+"    37 Fides",
+"    38 Leda",
+"    39 Laetitia",
+"    40 Harmonia",
+"    41 Daphne",
+"    42 Isis",
+"    43 Ariadne",
+"    44 Nysa",
+"    45 Eugenia",
+"    46 Hestia",
+"    47 Aglaja",
+"    48 Doris",
+"    49 Pales",
+"    50 Virginia",
+"    51 Nemausa",
+"    52 Europa",
+"    53 Kalypso",
+"    54 Alexandra",
+"    55 Pandora",
+"    56 Melete",
+"    57 Mnemosyne",
+"    58 Concordia",
+"    59 Elpis",
+"    60 Echo",
+"    61 Danae",
+"    62 Erato",
+"    63 Ausonia",
+"    64 Angelina",
+"    65 Cybele",
+"    66 Maja",
+"    67 Asia",
+"    68 Leto",
+"    69 Hesperia",
+"    70 Panopaea",
+"    71 Niobe",
+"    72 Feronia",
+"    73 Klytia",
+"    74 Galatea",
+"    75 Eurydike",
+"    76 Freia",
+"    77 Frigga",
+"    78 Diana",
+"    79 Eurynome",
+"    80 Sappho",
+"    81 Terpsichore",
+"    82 Alkmene",
+"    83 Beatrix",
+"    84 Klio",
+"    85 Io",
+"    86 Semele",
+"    87 Sylvia",
+"    88 Thisbe",
+"    89 Julia",
+"    90 Antiope",
+"    91 Aegina",
+"    92 Undina",
+"    93 Minerva",
+"    94 Aurora",
+"    95 Arethusa",
+"    96 Aegle",
+"    97 Klotho",
+"    98 Ianthe",
+"    99 Dike",
+"   100 Hekate",
+"   101 Helena",
+"   102 Miriam",
+"   103 Hera",
+"   104 Klymene",
+"   105 Artemis",
+"   106 Dione",
+"   107 Camilla",
+"   108 Hecuba",
+"   109 Felicitas",
+"   110 Lydia",
+"   111 Ate",
+"   112 Iphigenia",
+"   113 Amalthea",
+"   114 Kassandra",
+"   115 Thyra",
+"   116 Sirona",
+"   117 Lomia",
+"   118 Peitho",
+"   119 Althaea",
+"   120 Lachesis",
+"   121 Hermione",
+"   122 Gerda",
+"   123 Brunhild",
+"   124 Alkeste",
+"   125 Liberatrix",
+"   126 Velleda",
+"   127 Johanna",
+"   128 Nemesis",
+"   129 Antigone",
+"   130 Elektra",
+"   131 Vala",
+"   132 Aethra",
+"   133 Cyrene",
+"   134 Sophrosyne",
+"   135 Hertha",
+"   136 Austria",
+"   137 Meliboea",
+"   138 Tolosa",
+"   139 Juewa",
+"   140 Siwa",
+"   141 Lumen",
+"   142 Polana",
+"   143 Adria",
+"   144 Vibilia",
+"   145 Adeona",
+"   146 Lucina",
+"   147 Protogeneia",
+"   148 Gallia",
+"   149 Medusa",
+"   150 Nuwa",
+"   151 Abundantia",
+"   152 Atala",
+"   153 Hilda",
+"   154 Bertha",
+"   155 Scylla",
+"   156 Xanthippe",
+"   158 Koronis",
+"   159 Aemilia",
+"   160 Una",
+"   161 Athor",
+"   162 Laurentia",
+"   163 Erigone",
+"   164 Eva",
+"   165 Loreley",
+"   166 Rhodope",
+"   167 Urda",
+"   168 Sibylla",
+"   169 Zelia",
+"   170 Maria",
+"   171 Ophelia",
+"   172 Baucis",
+"   173 Ino",
+"   174 Phaedra",
+"   175 Andromache",
+"   176 Iduna",
+"   177 Irma",
+"   178 Belisana",
+"   179 Klytaemnestra",
+"   180 Garumna",
+"   181 Eucharis",
+"   182 Elsa",
+"   183 Istria",
+"   184 Dejopeja",
+"   185 Eunike",
+"   186 Celuta",
+"   187 Lamberta",
+"   188 Menippe",
+"   189 Phthia",
+"   190 Ismene",
+"   191 Kolga",
+"   192 Nausikaa",
+"   193 Ambrosia",
+"   194 Prokne",
+"   195 Eurykleia",
+"   196 Philomela",
+"   197 Arete",
+"   198 Ampella",
+"   199 Byblis",
+"   200 Dynamene",
+"   201 Penelope",
+"   202 Chryseis",
+"   203 Pompeja",
+"   204 Kallisto",
+"   205 Martha",
+"   206 Hersilia",
+"   207 Hedda",
+"   208 Lacrimosa",
+"   209 Dido",
+"   210 Isabella",
+"   211 Isolda",
+"   212 Medea",
+"   213 Lilaea",
+"   214 Aschera",
+"   215 Oenone",
+"   216 Kleopatra",
+"   217 Eudora",
+"   218 Bianca",
+"   219 Thusnelda",
+"   220 Stephania",
+"   221 Eos",
+"   222 Lucia",
+"   223 Rosa",
+"   224 Oceana",
+"   225 Henrietta",
+"   226 Weringia",
+"   228 Agathe",
+"   229 Adelinda",
+"   230 Athamantis",
+"   232 Russia",
+"   233 Asterope",
+"   234 Barbara",
+"   235 Carolina",
+"   236 Honoria",
+"   237 Coelestina",
+"   238 Hypatia",
+"   240 Vanadis",
+"   241 Germania",
+"   242 Kriemhild",
+"   243 Ida",
+"   244 Sita",
+"   245 Vera",
+"   246 Asporina",
+"   247 Eukrate",
+"   250 Bettina",
+"   253 Mathilde",
+"   254 Augusta",
+"   255 Oppavia",
+"   257 Silesia",
+"   258 Tyche",
+"   259 Aletheia",
+"   260 Huberta",
+"   261 Prymno",
+"   262 Valda",
+"   263 Dresda",
+"   264 Libussa",
+"   266 Aline",
+"   267 Tirza",
+"   268 Adorea",
+"   269 Justitia",
+"   270 Anahita",
+"   271 Penthesilea",
+"   272 Antonia",
+"   273 Atropos",
+"   275 Sapientia",
+"   276 Adelheid",
+"   277 Elvira",
+"   278 Paulina",
+"   279 Thule",
+"   281 Lucretia",
+"   282 Clorinde",
+"   283 Emma",
+"   284 Amalia",
+"   286 Iclea",
+"   287 Nephthys",
+"   288 Glauke",
+"   289 Nenetta",
+"   293 Brasilia",
+"   295 Theresia",
+"   296 Phaetusa",
+"   301 Bavaria",
+"   302 Clarissa",
+"   304 Olga",
+"   305 Gordonia",
+"   306 Unitas",
+"   307 Nike",
+"   308 Polyxo",
+"   310 Margarita",
+"   311 Claudia",
+"   312 Pierretta",
+"   313 Chaldaea",
+"   317 Roxane",
+"   318 Magdalena",
+"   321 Florentina",
+"   322 Phaeo",
+"   323 Brucia",
+"   324 Bamberga",
+"   325 Heidelberga",
+"   326 Tamara",
+"   327 Columbia",
+"   328 Gudrun",
+"   329 Svea",
+"   331 Etheridgea",
+"   332 Siri",
+"   333 Badenia (1892 A)",1892 A
+"   334 Chicago (1892 L)",1892 L
+"   335 Roberta (1892 C)",1892 C
+"   336 Lacadiera (1892 D)",1892 D
+"   337 Devosa (1892 E)",1892 E
+"   338 Budrosa (1892 F)",1892 F
+"   339 Dorothea (1892 G)",1892 G
+"   340 Eduarda (1892 H)",1892 H
+"   341 California (1892 J)",1892 J
+"   342 Endymion (1892 K)",1892 K
+"   343 Ostara (1892 N)",1892 N
+"   344 Desiderata (1892 M)",1892 M
+"   475 Ocllo (1901 HN)",1901 HN
+"   345 Tercidina (1892 O)",1892 O
+"   346 Hermentaria (1892 P)",1892 P
+"   347 Pariana (1892 Q)",1892 Q
+"   348 May (1892 R)",1892 R
+"   349 Dembowska (1892 T)",1892 T
+"   350 Ornamenta (1892 U)",1892 U
+"   351 Yrsa (1892 V)",1892 V
+"   352 Gisela (1893 B)",1893 B
+"   353 Ruperto-Carola (1893 F)",1893 F
+"   354 Eleonora (1893 A)",1893 A
+"   355 Gabriella (1893 E)",1893 E
+"   356 Liguria (1893 G)",1893 G
+"   357 Ninina (1893 J)",1893 J
+"   358 Apollonia (1893 K)",1893 K
+"   359 Georgia (1893 M)",1893 M
+"   360 Carlova (1893 N)",1893 N
+"   361 Bononia (1893 P)",1893 P
+"   362 Havnia (1893 R)",1893 R
+"   363 Padua (1893 S)",1893 S
+"   364 Isara (1893 T)",1893 T
+"   365 Corduba (1893 V)",1893 V
+"   366 Vincentina (1893 W)",1893 W
+"   368 Haidea (1893 AB)",1893 AB
+"   369 Aeria (1893 AE)",1893 AE
+"   370 Modestia (1893 AC)",1893 AC
+"   371 Bohemia (1893 AD)",1893 AD
+"   372 Palma (1893 AH)",1893 AH
+"   373 Melusina (1893 AJ)",1893 AJ
+"   374 Burgundia (1893 AK)",1893 AK
+"   375 Ursula (1893 AL)",1893 AL
+"   376 Geometria (1893 AM)",1893 AM
+"   377 Campania (1893 AN)",1893 AN
+"   378 Holmia (1893 AP)",1893 AP
+"   379 Huenna (1894 AQ)",1894 AQ
+"   380 Fiducia (1894 AR)",1894 AR
+"   381 Myrrha (1894 AS)",1894 AS
+"   382 Dodona (1894 AT)",1894 AT
+"   383 Janina (1894 AU)",1894 AU
+"   384 Burdigala (1894 AV)",1894 AV
+"   385 Ilmatar (1894 AX)",1894 AX
+"   386 Siegena (1894 AY)",1894 AY
+"   387 Aquitania (1894 AZ)",1894 AZ
+"   388 Charybdis (1894 BA)",1894 BA
+"   389 Industria (1894 BB)",1894 BB
+"   403 Cyane (1895 BX)",1895 BX
+"   390 Alma (1894 BC)",1894 BC
+"   391 Ingeborg (1894 BE)",1894 BE
+"   392 Wilhelmina (1894 BF)",1894 BF
+"   393 Lampetia (1894 BG)",1894 BG
+"   394 Arduina (1894 BH)",1894 BH
+"   395 Delia (1894 BK)",1894 BK
+"   396 Aeolia (1894 BL)",1894 BL
+"   397 Vienna (1894 BM)",1894 BM
+"   398 Admete (1894 BN)",1894 BN
+"   399 Persephone (1895 BP)",1895 BP
+"   402 Chloe (1895 BW)",1895 BW
+"   404 Arsinoe (1895 BY)",1895 BY
+"   405 Thia (1895 BZ)",1895 BZ
+"   406 Erna (1895 CB)",1895 CB
+"   407 Arachne (1895 CC)",1895 CC
+"   409 Aspasia (1895 CE)",1895 CE
+"   410 Chloris (1896 CH)",1896 CH
+"   412 Elisabetha (1896 CK)",1896 CK
+"   413 Edburga (1896 CL)",1896 CL
+"   414 Liriope (1896 CN)",1896 CN
+"   415 Palatia (1896 CO)",1896 CO
+"   416 Vaticana (1896 CS)",1896 CS
+"   417 Suevia (1896 CT)",1896 CT
+"   418 Alemannia (1896 CV)",1896 CV
+"   419 Aurelia (1896 CW)",1896 CW
+"   420 Bertholda (1896 CY)",1896 CY
+"   421 Zahringia (1896 CZ)",1896 CZ
+"   422 Berolina (1896 DA)",1896 DA
+"   423 Diotima (1896 DB)",1896 DB
+"   425 Cornelia (1896 DC)",1896 DC
+"   426 Hippo (1897 DH)",1897 DH
+"   429 Lotis (1897 DL)",1897 DL
+"   431 Nephele (1897 DN)",1897 DN
+"   432 Pythia (1897 DO)",1897 DO
+"   433 Eros (1898 DQ)",1898 DQ
+"   434 Hungaria (1898 DR)",1898 DR
+"   435 Ella (1898 DS)",1898 DS
+"   438 Zeuxo (1898 DU)",1898 DU
+"   439 Ohio (1898 EB)",1898 EB
+"   441 Bathilde (1898 ED)",1898 ED
+"   442 Eichsfeldia (1899 EE)",1899 EE
+"   443 Photographica (1899 EF)",1899 EF
+"   444 Gyptis (1899 EL)",1899 EL
+"   445 Edna (1899 EX)",1899 EX
+"   446 Aeternitas (1899 ER)",1899 ER
+"   447 Valentine (1899 ES)",1899 ES
+"   448 Natalie (1899 ET)",1899 ET
+"   449 Hamburga (1899 EU)",1899 EU
+"   450 Brigitta (1899 EV)",1899 EV
+"   451 Patientia (1899 EY)",1899 EY
+"   453 Tea (1900 FA)",1900 FA
+"   454 Mathesis (1900 FC)",1900 FC
+"   455 Bruchsalia (1900 FG)",1900 FG
+"   456 Abnoba (1900 FH)",1900 FH
+"   458 Hercynia (1900 FK)",1900 FK
+"   459 Signe (1900 FM)",1900 FM
+"   460 Scania (1900 FN)",1900 FN
+"   461 Saskia (1900 FP)",1900 FP
+"   462 Eriphyla (1900 FQ)",1900 FQ
+"   463 Lola (1900 FS)",1900 FS
+"   464 Megaira (1901 FV)",1901 FV
+"   466 Tisiphone (1901 FX)",1901 FX
+"   468 Lina (1901 FZ)",1901 FZ
+"   469 Argentina (1901 GE)",1901 GE
+"   470 Kilia (1901 GJ)",1901 GJ
+"   471 Papagena (1901 GN)",1901 GN
+"   472 Roma (1901 GP)",1901 GP
+"   476 Hedwig (1901 GQ)",1901 GQ
+"   477 Italia (1901 GR)",1901 GR
+"   478 Tergeste (1901 GU)",1901 GU
+"   479 Caprera (1901 HJ)",1901 HJ
+"   480 Hansa (1901 GL)",1901 GL
+"   481 Emita (1902 HP)",1902 HP
+"   482 Petrina (1902 HT)",1902 HT
+"   483 Seppina (1902 HU)",1902 HU
+"   484 Pittsburghia (1902 HX)",1902 HX
+"   485 Genua (1902 HZ)",1902 HZ
+"   487 Venetia (1902 JL)",1902 JL
+"   488 Kreusa (1902 JG)",1902 JG
+"   489 Comacina (1902 JM)",1902 JM
+"   490 Veritas (1902 JP)",1902 JP
+"   491 Carina (1902 JQ)",1902 JQ
+"   494 Virtus (1902 JV)",1902 JV
+"   496 Gryphia (1902 KH)",1902 KH
+"   497 Iva (1902 KJ)",1902 KJ
+"   498 Tokio (1902 KU)",1902 KU
+"   499 Venusia (1902 KX)",1902 KX
+"   502 Sigune (1903 LC)",1903 LC
+"   503 Evelyn (1903 LF)",1903 LF
+"   504 Cora (1902 LK)",1902 LK
+"   505 Cava (1902 LL)",1902 LL
+"   506 Marion (1903 LN)",1903 LN
+"   507 Laodica (1903 LO)",1903 LO
+"   508 Princetonia (1903 LQ)",1903 LQ
+"   509 Iolanda (1903 LR)",1903 LR
+"   510 Mabella (1903 LT)",1903 LT
+"   511 Davida (1903 LU)",1903 LU
+"   512 Taurinensis (1903 LV)",1903 LV
+"   513 Centesima (1903 LY)",1903 LY
+"   514 Armida (1903 MB)",1903 MB
+"   515 Athalia (1903 ME)",1903 ME
+"   516 Amherstia (1903 MG)",1903 MG
+"   517 Edith (1903 MH)",1903 MH
+"   519 Sylvania (1903 MP)",1903 MP
+"   520 Franziska (1903 MV)",1903 MV
+"   521 Brixia (1904 NB)",1904 NB
+"   522 Helga (1904 NC)",1904 NC
+"   523 Ada (1904 ND)",1904 ND
+"   524 Fidelio (1904 NN)",1904 NN
+"   525 Adelaide (1908 EKa)",1908 EKa
+"   526 Jena (1904 NQ)",1904 NQ
+"   527 Euryanthe (1904 NR)",1904 NR
+"   529 Preziosa (1904 NT)",1904 NT
+"   530 Turandot (1904 NV)",1904 NV
+"   531 Zerlina (1904 NW)",1904 NW
+"   532 Herculina (1904 NY)",1904 NY
+"   533 Sara (1904 NZ)",1904 NZ
+"   534 Nassovia (1904 OA)",1904 OA
+"   535 Montague (1904 OC)",1904 OC
+"   536 Merapi (1904 OF)",1904 OF
+"   537 Pauly (1904 OG)",1904 OG
+"   539 Pamina (1904 OL)",1904 OL
+"   540 Rosamunde (1904 ON)",1904 ON
+"   541 Deborah (1904 OO)",1904 OO
+"   542 Susanna (1904 OQ)",1904 OQ
+"   543 Charlotte (1904 OT)",1904 OT
+"   545 Messalina (1904 OY)",1904 OY
+"   546 Herodias (1904 PA)",1904 PA
+"   547 Praxedis (1904 PB)",1904 PB
+"   548 Kressida (1904 PC)",1904 PC
+"   549 Jessonda (1904 PK)",1904 PK
+"   550 Senta (1904 PL)",1904 PL
+"   551 Ortrud (1904 PM)",1904 PM
+"   553 Kundry (1904 PP)",1904 PP
+"   554 Peraga (1905 PS)",1905 PS
+"   555 Norma (1905 PT)",1905 PT
+"   556 Phyllis (1905 PW)",1905 PW
+"   558 Carmen (1905 QB)",1905 QB
+"   559 Nanon (1905 QD)",1905 QD
+"   560 Delila (1905 QF)",1905 QF
+"   561 Ingwelde (1905 QG)",1905 QG
+"   562 Salome (1905 QH)",1905 QH
+"   563 Suleika (1905 QK)",1905 QK
+"   564 Dudu (1905 QM)",1905 QM
+"   565 Marbachia (1905 QN)",1905 QN
+"   566 Stereoskopia (1905 QO)",1905 QO
+"   567 Eleutheria (1905 QP)",1905 QP
+"   569 Misa (1905 QT)",1905 QT
+"   570 Kythera (1905 QX)",1905 QX
+"   571 Dulcinea (1905 QZ)",1905 QZ
+"   572 Rebekka (1905 RB)",1905 RB
+"   574 Reginhild (1905 RD)",1905 RD
+"   578 Happelia (1905 RZ)",1905 RZ
+"   579 Sidonia (1905 SD)",1905 SD
+"   581 Tauntonia (1905 SH)",1905 SH
+"   582 Olympia (1906 SO)",1906 SO
+"   583 Klotilde (1905 SP)",1905 SP
+"   584 Semiramis (1906 SY)",1906 SY
+"   585 Bilkis (1906 TA)",1906 TA
+"   586 Thekla (1906 TC)",1906 TC
+"   588 Achilles (1906 TG)",1906 TG
+"   589 Croatia (1906 TM)",1906 TM
+"   591 Irmgard (1906 TP)",1906 TP
+"   592 Bathseba (1906 TS)",1906 TS
+"   593 Titania (1906 TT)",1906 TT
+"   596 Scheila (1906 UA)",1906 UA
+"   597 Bandusia (1906 UB)",1906 UB
+"   598 Octavia (1906 UC)",1906 UC
+"   599 Luisa (1906 UJ)",1906 UJ
+"   600 Musa (1906 UM)",1906 UM
+"   601 Nerthus (1906 UN)",1906 UN
+"   602 Marianna (1906 TE)",1906 TE
+"   604 Tekmessa (1906 TK)",1906 TK
+"   606 Brangane (1906 VB)",1906 VB
+"   611 Valeria (1906 VL)",1906 VL
+"   613 Ginevra (1906 VP)",1906 VP
+"   614 Pia (1906 VQ)",1906 VQ
+"   615 Roswitha (1906 VR)",1906 VR
+"   616 Elly (1906 VT)",1906 VT
+"   617 Patroclus (1906 VY)",1906 VY
+"   618 Elfriede (1906 VZ)",1906 VZ
+"   619 Triberga (1906 WC)",1906 WC
+"   620 Drakonia (1906 WE)",1906 WE
+"   621 Werdandi (1906 WJ)",1906 WJ
+"   622 Esther (1906 WP)",1906 WP
+"   623 Chimaera (1907 XJ)",1907 XJ
+"   624 Hektor (1907 XM)",1907 XM
+"   625 Xenia (1907 XN)",1907 XN
+"   626 Notburga (1907 XO)",1907 XO
+"   627 Charis (1907 XS)",1907 XS
+"   628 Christine (1907 XT)",1907 XT
+"   629 Bernardina (1907 XU)",1907 XU
+"   631 Philippina (1907 YJ)",1907 YJ
+"   633 Zelima (1907 ZM)",1907 ZM
+"   634 Ute (1907 ZN)",1907 ZN
+"   635 Vundtia (1907 ZS)",1907 ZS
+"   638 Moira (1907 ZQ)",1907 ZQ
+"   639 Latona (1907 ZT)",1907 ZT
+"   640 Brambilla (1907 ZW)",1907 ZW
+"   642 Clara (1907 ZY)",1907 ZY
+"   643 Scheherezade (1907 ZZ)",1907 ZZ
+"   644 Cosima (1907 AA)",1907 AA
+"   645 Agrippina (1907 AG)",1907 AG
+"   647 Adelgunde (1907 AD)",1907 AD
+"   648 Pippa (1907 AE)",1907 AE
+"   649 Josefa (1907 AF)",1907 AF
+"   651 Antikleia (1907 AN)",1907 AN
+"   653 Berenike (1907 BK)",1907 BK
+"   654 Zelinda (1908 BM)",1908 BM
+"   658 Asteria (1908 BW)",1908 BW
+"   659 Nestor (1908 CS)",1908 CS
+"   660 Crescentia (1908 CC)",1908 CC
+"   661 Cloelia (1908 CL)",1908 CL
+"   663 Gerlinde (1908 DG)",1908 DG
+"   664 Judith (1908 DH)",1908 DH
+"   668 Dora (1908 DO)",1908 DO
+"   669 Kypria (1908 DQ)",1908 DQ
+"   670 Ottegebe (1908 DR)",1908 DR
+"   671 Carnegia (1908 DV)",1908 DV
+"   673 Edda (1908 EA)",1908 EA
+"   674 Rachele (1908 EP)",1908 EP
+"   675 Ludmilla (1908 DU)",1908 DU
+"   676 Melitta (1909 FN)",1909 FN
+"   677 Aaltje (1909 FR)",1909 FR
+"   678 Fredegundis (1909 FS)",1909 FS
+"   679 Pax (1909 FY)",1909 FY
+"   680 Genoveva (1909 GW)",1909 GW
+"   686 Gersuind (1909 HF)",1909 HF
+"   687 Tinette (1909 HG)",1909 HG
+"   688 Melanie (1909 HH)",1909 HH
+"   689 Zita (1909 HJ)",1909 HJ
+"   690 Wratislavia (1909 HZ)",1909 HZ
+"   691 Lehigh (1909 JG)",1909 JG
+"   692 Hippodamia (1901 HD)",1901 HD
+"   693 Zerbinetta (1909 HN)",1909 HN
+"   694 Ekard (1909 JA)",1909 JA
+"   695 Bella (1909 JB)",1909 JB
+"   696 Leonora (1910 JJ)",1910 JJ
+"   697 Galilea (1910 JO)",1910 JO
+"   699 Hela (1910 KD)",1910 KD
+"   701 Oriola (1910 KN)",1910 KN
+"   702 Alauda (1910 KQ)",1910 KQ
+"   704 Interamnia (1910 KU)",1910 KU
+"   705 Erminia (1910 KV)",1910 KV
+"   706 Hirundo (1910 KX)",1910 KX
+"   708 Raphaela (1911 LJ)",1911 LJ
+"   709 Fringilla (1911 LK)",1911 LK
+"   712 Boliviana (1911 LO)",1911 LO
+"   713 Luscinia (1911 LS)",1911 LS
+"   714 Ulula (1911 LW)",1911 LW
+"   715 Transvaalia (1911 LX)",1911 LX
+"   716 Berkeley (1911 MD)",1911 MD
+"   717 Wisibada (1911 MJ)",1911 MJ
+"   718 Erida (1911 MS)",1911 MS
+"   719 Albert (1911 MT)",1911 MT
+"   720 Bohlinia (1911 MW)",1911 MW
+"   721 Tabora (1911 MZ)",1911 MZ
+"   723 Hammonia (1911 NB)",1911 NB
+"   725 Amanda (1911 ND)",1911 ND
+"   727 Nipponia (1912 NT)",1912 NT
+"   729 Watsonia (1912 OD)",1912 OD
+"   731 Sorga (1912 OQ)",1912 OQ
+"   733 Mocia (1912 PF)",1912 PF
+"   735 Marghanna (1912 PY)",1912 PY
+"   736 Harvard (1912 PZ)",1912 PZ
+"   737 Arequipa (1912 QB)",1912 QB
+"   738 Alagasta (1913 QO)",1913 QO
+"   739 Mandeville (1913 QR)",1913 QR
+"   740 Cantabia (1913 QS)",1913 QS
+"   741 Botolphia (1913 QT)",1913 QT
+"   742 Edisona (1913 QU)",1913 QU
+"   743 Eugenisis (1913 QV)",1913 QV
+"   744 Aguntina (1913 QW)",1913 QW
+"   746 Marlu (1913 QY)",1913 QY
+"   747 Winchester (1913 QZ)",1913 QZ
+"   748 Simeisa (1913 RD)",1913 RD
+"   749 Malzovia (1913 RF)",1913 RF
+"   750 Oskar (1913 RG)",1913 RG
+"   751 Faina (1913 RK)",1913 RK
+"   753 Tiflis (1913 RM)",1913 RM
+"   754 Malabar (1906 UT)",1906 UT
+"   755 Quintilla (1908 CZ)",1908 CZ
+"   772 Tanete (1913 TR)",1913 TR
+"   757 Portlandia (1908 EJ)",1908 EJ
+"   758 Mancunia (1912 PE)",1912 PE
+"   759 Vinifera (1913 SJ)",1913 SJ
+"   760 Massinga (1913 SL)",1913 SL
+"   761 Brendelia (1913 SO)",1913 SO
+"   762 Pulcova (1913 SQ)",1913 SQ
+"   764 Gedania (1913 SU)",1913 SU
+"   766 Moguntia (1913 SW)",1913 SW
+"   767 Bondia (1913 SX)",1913 SX
+"   768 Struveana (1913 SZ)",1913 SZ
+"   770 Bali (1913 TE)",1913 TE
+"   771 Libera (1913 TO)",1913 TO
+"   773 Irmintraud (1913 TV)",1913 TV
+"   775 Lumiere (1914 TX)",1914 TX
+"   776 Berbericia (1914 TY)",1914 TY
+"   778 Theobalda (1914 UA)",1914 UA
+"   779 Nina (1914 UB)",1914 UB
+"   781 Kartvelia (1914 UF)",1914 UF
+"   782 Montefiore (1914 UK)",1914 UK
+"   783 Nora (1914 UL)",1914 UL
+"   784 Pickeringia (1914 UM)",1914 UM
+"   785 Zwetana (1914 UN)",1914 UN
+"   786 Bredichina (1914 UO)",1914 UO
+"   789 Lena (1914 UU)",1914 UU
+"   790 Pretoria (1912 NW)",1912 NW
+"   791 Ani (1914 UV)",1914 UV
+"   792 Metcalfia (1907 ZC)",1907 ZC
+"   793 Arizona (1907 ZD)",1907 ZD
+"   795 Fini (1914 VE)",1914 VE
+"   796 Sarita (1914 VH)",1914 VH
+"   797 Montana (1914 VR)",1914 VR
+"   798 Ruth (1914 VT)",1914 VT
+"   800 Kressmannia (1915 WP)",1915 WP
+"   801 Helwerthia (1915 WQ)",1915 WQ
+"   804 Hispania (1915 WT)",1915 WT
+"   805 Hormuthia (1915 WW)",1915 WW
+"   807 Ceraskia (1915 WY)",1915 WY
+"   808 Merxia (1901 GY)",1901 GY
+"   811 Nauheima (1915 XR)",1915 XR
+"   814 Tauris (1916 YT)",1916 YT
+"   815 Coppelia (1916 YU)",1916 YU
+"   819 Barnardiana (1916 ZA)",1916 ZA
+"   821 Fanny (1916 ZC)",1916 ZC
+"   822 Lalage (1916 ZD)",1916 ZD
+"   824 Anastasia (1916 ZH)",1916 ZH
+"   825 Tanina (1916 ZL)",1916 ZL
+"   826 Henrika (1916 ZO)",1916 ZO
+"   828 Lindemannia (1916 ZX)",1916 ZX
+"   830 Petropolitana (1916 ZZ)",1916 ZZ
+"   834 Burnhamia (1916 AD)",1916 AD
+"   838 Seraphina (1916 AH)",1916 AH
+"   839 Valborg (1916 AJ)",1916 AJ
+"   844 Leontina (1916 AP)",1916 AP
+"   845 Naema (1916 AS)",1916 AS
+"   846 Lipperta (1916 AT)",1916 AT
+"   847 Agnia (1915 XX)",1915 XX
+"   849 Ara (1912 NY)",1912 NY
+"   851 Zeissia (1916 S26)",1916 S26
+"   853 Nansenia (1916 S28)",1916 S28
+"   856 Backlunda (1916 S30)",1916 S30
+"   857 Glasenappia (1916 S33)",1916 S33
+"   858 El Djezair (1916 a)",1916 a
+"   860 Ursina (1917 BD)",1917 BD
+"   862 Franzia (1917 BF)",1917 BF
+"   863 Benkoela (1917 BH)",1917 BH
+"   864 Aase (A921 SB)",A921 SB
+"   866 Fatme (1917 BQ)",1917 BQ
+"   868 Lova (1917 BU)",1917 BU
+"   870 Manto (1917 BX)",1917 BX
+"   872 Holda (1917 BZ)",1917 BZ
+"   873 Mechthild (1917 CA)",1917 CA
+"   876 Scott (1917 CH)",1917 CH
+"   877 Walkure (1915 S7)",1915 S7
+"   880 Herba (1917 CK)",1917 CK
+"   883 Matterania (1917 CP)",1917 CP
+"   884 Priamus (1917 CQ)",1917 CQ
+"   886 Washingtonia (1917 b)",1917 b
+"   887 Alinda (1918 DB)",1918 DB
+"   888 Parysatis (1918 DC)",1918 DC
+"   890 Waltraut (1918 DK)",1918 DK
+"   893 Leopoldina (1918 DS)",1918 DS
+"   895 Helio (1918 DU)",1918 DU
+"   897 Lysistrata (1918 DZ)",1918 DZ
+"   898 Hildegard (1918 EA)",1918 EA
+"   899 Jokaste (1918 EB)",1918 EB
+"   901 Brunsia (1918 EE)",1918 EE
+"   905 Universitas (1918 ES)",1918 ES
+"   907 Rhoda (1918 EU)",1918 EU
+"   908 Buda (1918 EX)",1918 EX
+"   909 Ulla (1919 FA)",1919 FA
+"   910 Anneliese (1919 FB)",1919 FB
+"   911 Agamemnon (1919 FD)",1919 FD
+"   912 Maritima (1919 FJ)",1919 FJ
+"   913 Otila (1919 FL)",1919 FL
+"   914 Palisana (1919 FN)",1919 FN
+"   919 Ilsebill (1918 EQ)",1918 EQ
+"   920 Rogeria (1919 FT)",1919 FT
+"   924 Toni (1919 GC)",1919 GC
+"   925 Alphonsina (1920 GM)",1920 GM
+"   927 Ratisbona (1920 GO)",1920 GO
+"   929 Algunde (1920 GR)",1920 GR
+"   930 Westphalia (1920 GS)",1920 GS
+"   931 Whittemora (1920 GU)",1920 GU
+"   932 Hooveria (1920 GV)",1920 GV
+"   934 Thuringia (1920 HK)",1920 HK
+"   937 Bethgea (1920 HO)",1920 HO
+"   939 Isberga (1920 HR)",1920 HR
+"   940 Kordula (1920 HT)",1920 HT
+"   941 Murray (1920 HV)",1920 HV
+"   943 Begonia (1920 HX)",1920 HX
+"   944 Hidalgo (1920 HZ)",1920 HZ
+"   945 Barcelona (1921 JB)",1921 JB
+"   946 Poesia (1921 JC)",1921 JC
+"   950 Ahrensa (1921 JP)",1921 JP
+"   951 Gaspra (1916 S45)",1916 S45
+"   954 Li (1921 JU)",1921 JU
+"   961 Gunnie (1921 KM)",1921 KM
+"   962 Aslog (1921 KP)",1921 KP
+"   963 Iduberga (1921 KR)",1921 KR
+"   965 Angelica (1921 KT)",1921 KT
+"   966 Muschi (1921 KU)",1921 KU
+"   968 Petunia (1921 KW)",1921 KW
+"   969 Leocadia (1921 KZ)",1921 KZ
+"   970 Primula (1921 LB)",1921 LB
+"   971 Alsatia (1921 LF)",1921 LF
+"   973 Aralia (1922 LR)",1922 LR
+"   974 Lioba (1922 LS)",1922 LS
+"   975 Perseverantia (1922 LT)",1922 LT
+"   976 Benjamina (1922 LU)",1922 LU
+"   977 Philippa (1922 LV)",1922 LV
+"   978 Aidamina (1922 LY)",1922 LY
+"   980 Anacostia (1921 W19)",1921 W19
+"   981 Martina (1917 S92)",1917 S92
+"   983 Gunila (1922 ME)",1922 ME
+"  1134 Kepler (1929 SA)",1929 SA
+"   984 Gretia (1922 MH)",1922 MH
+"   985 Rosina (1922 MO)",1922 MO
+"   991 McDonalda (1922 NB)",1922 NB
+"   994 Otthild (1923 NL)",1923 NL
+"   996 Hilaritas (1923 NM)",1923 NM
+"   997 Priska (1923 NR)",1923 NR
+"  1001 Gaussia (1923 OA)",1923 OA
+"  1004 Belopolskya (1923 OS)",1923 OS
+"  1007 Pawlowia (1923 OX)",1923 OX
+"  1011 Laodamia (1924 PK)",1924 PK
+"  1012 Sarema (1924 PM)",1924 PM
+"  1013 Tombecka (1924 PQ)",1924 PQ
+"  1014 Semphyra (1924 PW)",1924 PW
+"  1015 Christa (1924 QF)",1924 QF
+"  1016 Anitra (1924 QG)",1924 QG
+"  1017 Jacqueline (1924 QL)",1924 QL
+"  1019 Strackea (1924 QN)",1924 QN
+"  1020 Arcadia (1924 QV)",1924 QV
+"  1021 Flammario (1924 RG)",1924 RG
+"  1022 Olympiada (1924 RT)",1924 RT
+"  1023 Thomana (1924 RU)",1924 RU
+"  1024 Hale (A923 YO13)",A923 YO13
+"  1025 Riema (1923 NX)",1923 NX
+"  1028 Lydina (1923 PG)",1923 PG
+"  1029 La Plata (1924 RK)",1924 RK
+"  1031 Arctica (1924 RR)",1924 RR
+"  1032 Pafuri (1924 SA)",1924 SA
+"  1034 Mozartia (1924 SS)",1924 SS
+"  1036 Ganymed (1924 TD)",1924 TD
+"  1038 Tuckia (1924 TK)",1924 TK
+"  1039 Sonneberga (1924 TL)",1924 TL
+"  1041 Asta (1925 FA)",1925 FA
+"  1043 Beate (1925 HB)",1925 HB
+"  1045 Michela (1924 TR)",1924 TR
+"  1046 Edwin (1924 UA)",1924 UA
+"  1047 Geisha (1924 TE)",1924 TE
+"  1048 Feodosia (1924 TP)",1924 TP
+"  1052 Belgica (1925 VD)",1925 VD
+"  1055 Tynka (1925 WG)",1925 WG
+"  1056 Azalea (1924 QD)",1924 QD
+"  1058 Grubba (1925 MA)",1925 MA
+"  1061 Paeonia (1925 TB)",1925 TB
+"  1065 Amundsenia (1926 PD)",1926 PD
+"  1069 Planckia (1927 BC)",1927 BC
+"  1071 Brita (1924 RE)",1924 RE
+"  1075 Helina (1926 SC)",1926 SC
+"  1076 Viola (1926 TE)",1926 TE
+"  1078 Mentha (1926 XB)",1926 XB
+"  1079 Mimosa (1927 AD)",1927 AD
+"  1080 Orchis (1927 QB)",1927 QB
+"  1082 Pirola (1927 UC)",1927 UC
+"  1086 Nata (1927 QL)",1927 QL
+"  1087 Arabis (1927 RD)",1927 RD
+"  1088 Mitaka (1927 WA)",1927 WA
+"  1093 Freda (1925 LA)",1925 LA
+"  1094 Siberia (1926 CB)",1926 CB
+"  1098 Hakone (1928 RJ)",1928 RJ
+"  1102 Pepita (1928 VA)",1928 VA
+"  1103 Sequoia (1928 VB)",1928 VB
+"  1104 Syringa (1928 XA)",1928 XA
+"  1105 Fragaria (1929 AB)",1929 AB
+"  1106 Cydonia (1929 CW)",1929 CW
+"  1107 Lictoria (1929 FB)",1929 FB
+"  1108 Demeter (1929 KA)",1929 KA
+"  1109 Tata (1929 CU)",1929 CU
+"  1110 Jaroslawa (1928 PD)",1928 PD
+"  1111 Reinmuthia (1927 CO)",1927 CO
+"  1112 Polonia (1928 PE)",1928 PE
+"  1114 Lorraine (1928 WA)",1928 WA
+"  1124 Stroobantia (1928 TB)",1928 TB
+"  1126 Otero (1929 AC)",1929 AC
+"  1127 Mimi (1929 AJ)",1929 AJ
+"  1128 Astrid (1929 EB)",1929 EB
+"  1129 Neujmina (1929 PH)",1929 PH
+"  1131 Porzia (1929 RO)",1929 RO
+"  1133 Lugduna (1929 RC1)",1929 RC1
+"  1135 Colchis (1929 TA)",1929 TA
+"  1139 Atami (1929 XE)",1929 XE
+"  1140 Crimea (1929 YC)",1929 YC
+"  1143 Odysseus (1930 BH)",1930 BH
+"  1144 Oda (1930 BJ)",1930 BJ
+"  1146 Biarmia (1929 JF)",1929 JF
+"  1147 Stavropolis (1929 LF)",1929 LF
+"  1148 Rarahu (1929 NA)",1929 NA
+"  1152 Pawona (1930 AD)",1930 AD
+"  1154 Astronomia (1927 CB)",1927 CB
+"  1155 Aenna (1928 BD)",1928 BD
+"  1162 Larissa (1930 AC)",1930 AC
+"  1167 Dubiago (1930 PB)",1930 PB
+"  1170 Siva (1930 SQ)",1930 SQ
+"  1171 Rusthawelia (1930 TA)",1930 TA
+"  1172 Aneas (1930 UA)",1930 UA
+"  1173 Anchises (1930 UB)",1930 UB
+"  1176 Lucidor (1930 VE)",1930 VE
+"  1177 Gonnessia (1930 WA)",1930 WA
+"  1180 Rita (1931 GE)",1931 GE
+"  1181 Lilith (1927 CQ)",1927 CQ
+"  1185 Nikko (1927 WC)",1927 WC
+"  1186 Turnera (1929 PL)",1929 PL
+"  1187 Afra (1929 XC)",1929 XC
+"  1188 Gothlandia (1930 SB)",1930 SB
+"  1189 Terentia (1930 SG)",1930 SG
+"  1196 Sheba (1931 KE)",1931 KE
+"  1198 Atlantis (1931 RA)",1931 RA
+"  1199 Geldonia (1931 RF)",1931 RF
+"  1201 Strenua (1931 RK)",1931 RK
+"  1204 Renzia (1931 TE)",1931 TE
+"  1208 Troilus (1931 YA)",1931 YA
+"  1210 Morosovia (1931 LB)",1931 LB
+"  1212 Francette (1931 XC)",1931 XC
+"  1214 Richilde (1932 AA)",1932 AA
+"  1215 Boyer (1932 BA)",1932 BA
+"  1216 Askania (1932 BL)",1932 BL
+"  1222 Tina (1932 LA)",1932 LA
+"  1223 Neckar (1931 TG)",1931 TG
+"  1224 Fantasia (1927 SD)",1927 SD
+"  1228 Scabiosa (1931 TU)",1931 TU
+"  1234 Elyna (1931 UF)",1931 UF
+"  1235 Schorria (1931 UJ)",1931 UJ
+"  1236 Thais (1931 VX)",1931 VX
+"  1241 Dysona (1932 EB1)",1932 EB1
+"  1245 Calvinia (1932 KF)",1932 KF
+"  1247 Memoria (1932 QA)",1932 QA
+"  1248 Jugurtha (1932 RO)",1932 RO
+"  1249 Rutherfordia (1932 VB)",1932 VB
+"  1251 Hedera (1933 BE)",1933 BE
+"  1252 Celestia (1933 DG)",1933 DG
+"  1256 Normannia (1932 PD)",1932 PD
+"  1262 Sniadeckia (1933 FE)",1933 FE
+"  1263 Varsavia (1933 FF)",1933 FF
+"  1264 Letaba (1933 HG)",1933 HG
+"  1266 Tone (1927 BD)",1927 BD
+"  1268 Libya (1930 HJ)",1930 HJ
+"  1269 Rollandia (1930 SH)",1930 SH
+"  1271 Isergina (1931 TN)",1931 TN
+"  1272 Gefion (1931 TZ1)",1931 TZ1
+"  1274 Delportia (1932 WC)",1932 WC
+"  1275 Cimbria (1932 WG)",1932 WG
+"  1277 Dolores (1933 HA)",1933 HA
+"  1278 Kenya (1933 LA)",1933 LA
+"  1280 Baillauda (1933 QB)",1933 QB
+"  1284 Latvia (1933 OP)",1933 OP
+"  1286 Banachiewicza (1933 QH)",1933 QH
+"  1289 Kutaissi (1933 QR)",1933 QR
+"  1293 Sonja (1933 SO)",1933 SO
+"  1294 Antwerpia (1933 UB1)",1933 UB1
+"  1300 Marcelle (1934 CL)",1934 CL
+"  1301 Yvonne (1934 EA)",1934 EA
+"  1304 Arosa (1928 KC)",1928 KC
+"  1306 Scythia (1930 OB)",1930 OB
+"  1307 Cimmeria (1930 UF)",1930 UF
+"  1310 Villigera (1932 DB)",1932 DB
+"  1314 Paula (1933 SC)",1933 SC
+"  1316 Kasan (1933 WC)",1933 WC
+"  1317 Silvretta (1935 RC)",1935 RC
+"  1323 Tugela (1934 LD)",1934 LD
+"  1324 Knysna (1934 LL)",1934 LL
+"  1326 Losaka (1934 NS)",1934 NS
+"  1327 Namaqua (1934 RT)",1934 RT
+"  1328 Devota (1925 UA)",1925 UA
+"  1329 Eliane (1933 FL)",1933 FL
+"  1330 Spiridonia (1925 DB)",1925 DB
+"  1331 Solvejg (1933 QS)",1933 QS
+"  1332 Marconia (1934 AA)",1934 AA
+"  1336 Zeelandia (1934 RW)",1934 RW
+"  1339 Desagneauxa (1934 XB)",1934 XB
+"  1341 Edmee (1935 BA)",1935 BA
+"  1342 Brabantia (1935 CV)",1935 CV
+"  1343 Nicole (1935 FC)",1935 FC
+"  1345 Potomac (1908 CG)",1908 CG
+"  1348 Michel (1933 FD)",1933 FD
+"  1350 Rosselia (1934 TA)",1934 TA
+"  1351 Uzbekistania (1934 TF)",1934 TF
+"  1352 Wawel (1935 CE)",1935 CE
+"  1355 Magoeba (1935 HE)",1935 HE
+"  1357 Khama (1935 ND)",1935 ND
+"  1359 Prieska (1935 OC)",1935 OC
+"  1360 Tarka (1935 OD)",1935 OD
+"  1362 Griqua (1935 QG1)",1935 QG1
+"  1372 Haremari (1935 QK)",1935 QK
+"  1373 Cincinnati (1935 QN)",1935 QN
+"  1374 Isora (1935 UA)",1935 UA
+"  1385 Gelria (1935 MJ)",1935 MJ
+"  1386 Storeria (1935 PA)",1935 PA
+"  1390 Abastumani (1935 TA)",1935 TA
+"  1391 Carelia (1936 DA)",1936 DA
+"  1392 Pierre (1936 FO)",1936 FO
+"  1401 Lavonne (1935 UD)",1935 UD
+"  1403 Idelsonia (1936 QA)",1936 QA
+"  1406 Komppa (1936 RF)",1936 RF
+"  1407 Lindelof (1936 WC)",1936 WC
+"  1414 Jerome (1937 CE)",1937 CE
+"  1415 Malautra (1937 EA)",1937 EA
+"  1416 Renauxa (1937 EC)",1937 EC
+"  1418 Fayeta (1903 RG)",1903 RG
+"  1420 Radcliffe (1931 RJ)",1931 RJ
+"  1422 Stromgrenia (1936 QF)",1936 QF
+"  1423 Jose (1936 QM)",1936 QM
+"  1424 Sundmania (1937 AJ)",1937 AJ
+"  1427 Ruvuma (1937 KB)",1937 KB
+"  1428 Mombasa (1937 NO)",1937 NO
+"  1433 Geramtina (1937 UC)",1937 UC
+"  1434 Margot (1936 FD1)",1936 FD1
+"  1437 Diomedes (1937 PB)",1937 PB
+"  1439 Vogtia (1937 TE)",1937 TE
+"  1442 Corvina (1937 YF)",1937 YF
+"  1445 Konkolya (1938 AF)",1938 AF
+"  1449 Virtanen (1938 DO)",1938 DO
+"  1453 Fennia (1938 ED1)",1938 ED1
+"  1456 Saldanha (1937 NG)",1937 NG
+"  1458 Mineura (1937 RC)",1937 RC
+"  1461 Jean-Jacques (1937 YL)",1937 YL
+"  1467 Mashona (1938 OE)",1938 OE
+"  1471 Tornio (1938 SL1)",1938 SL1
+"  1474 Beira (1935 QY)",1935 QY
+"  1477 Bonsdorffia (1938 CC)",1938 CC
+"  1479 Inkeri (1938 DE)",1938 DE
+"  1480 Aunus (1938 DK)",1938 DK
+"  1483 Hakoila (1938 DJ1)",1938 DJ1
+"  1484 Postrema (1938 HC)",1938 HC
+"  1490 Limpopo (1936 LB)",1936 LB
+"  1493 Sigrid (1938 QB)",1938 QB
+"  1494 Savo (1938 SJ)",1938 SJ
+"  1500 Jyvaskyla (1938 UH)",1938 UH
+"  1502 Arenda (1938 WB)",1938 WB
+"  1504 Lappeenranta (1939 FM)",1939 FM
+"  1508 Kemi (1938 UP)",1938 UP
+"  1509 Esclangona (1938 YG)",1938 YG
+"  1510 Charlois (1939 DC)",1939 DC
+"  1512 Oulu (1939 FE)",1939 FE
+"  1517 Beograd (1938 FD)",1938 FD
+"  1520 Imatra (1938 UY)",1938 UY
+"  1529 Oterma (1938 BC)",1938 BC
+"  1532 Inari (1938 SM)",1938 SM
+"  1533 Saimaa (1939 BD)",1939 BD
+"  1534 Nasi (1939 BK)",1939 BK
+"  1539 Borrelly (1940 UB)",1940 UB
+"  1541 Estonia (1939 CK)",1939 CK
+"  1542 Schalen (1941 QE)",1941 QE
+"  1545 Thernoe (1941 UW)",1941 UW
+"  1547 Nele (1929 CZ)",1929 CZ
+"  1548 Palomaa (1935 FK)",1935 FK
+"  1549 Mikko (1937 GA)",1937 GA
+"  1550 Tito (1937 WD)",1937 WD
+"  1553 Bauersfelda (1940 AD)",1940 AD
+"  1556 Wingolfia (1942 AA)",1942 AA
+"  1560 Strattonia (1942 XB)",1942 XB
+"  1562 Gondolatsch (1943 EE)",1943 EE
+"  1563 Noel (1943 EG)",1943 EG
+"  1564 Srbija (1936 TB)",1936 TB
+"  1565 Lemaitre (1948 WA)",1948 WA
+"  1567 Alikoski (1941 HN)",1941 HN
+"  1576 Fabiola (1948 SA)",1948 SA
+"  1578 Kirkwood (1951 AT)",1951 AT
+"  1579 Herrick (1948 SB)",1948 SB
+"  1580 Betulia (1950 KA)",1950 KA
+"  1581 Abanderada (1950 LA1)",1950 LA1
+"  1583 Antilochus (1950 SA)",1950 SA
+"  1584 Fuji (1927 CR)",1927 CR
+"  1587 Kahrstedt (1933 FS1)",1933 FS1
+"  1592 Mathieu (1951 LA)",1951 LA
+"  1593 Fagnes (1951 LB)",1951 LB
+"  1594 Danjon (1949 WA)",1949 WA
+"  1595 Tanga (1930 ME)",1930 ME
+"  1600 Vyssotsky (1947 UC)",1947 UC
+"  1601 Patry (1942 KA)",1942 KA
+"  1602 Indiana (1950 GF)",1950 GF
+"  1603 Neva (1926 VH)",1926 VH
+"  1604 Tombaugh (1931 FH)",1931 FH
+"  1606 Jekhovsky (1950 RH)",1950 RH
+"  1613 Smiley (1950 SD)",1950 SD
+"  1615 Bardwell (1950 BW)",1950 BW
+"  1618 Dawn (1948 NF)",1948 NF
+"  1619 Ueta (1953 TA)",1953 TA
+"  1620 Geographos (1951 RA)",1951 RA
+"  1621 Druzhba (1926 TM)",1926 TM
+"  1625 The NORC (1953 RB)",1953 RB
+"  1627 Ivar (1929 SH)",1929 SH
+"  1629 Pecker (1952 DB)",1952 DB
+"  1634 Ndola (1935 QP)",1935 QP
+"  1635 Bohrmann (1924 QW)",1924 QW
+"  1636 Porter (1950 BH)",1950 BH
+"  1638 Ruanda (1935 JF)",1935 JF
+"  1639 Bower (1951 RB)",1951 RB
+"  1640 Nemo (1951 QA)",1951 QA
+"  1642 Hill (1951 RU)",1951 RU
+"  1644 Rafita (1935 YA)",1935 YA
+"  1645 Waterfield (1933 OJ)",1933 OJ
+"  1648 Shajna (1935 RF)",1935 RF
+"  1650 Heckmann (1937 TG)",1937 TG
+"  1653 Yakhontovia (1937 RA)",1937 RA
+"  1655 Comas Sola (1929 WG)",1929 WG
+"  1656 Suomi (1942 EC)",1942 EC
+"  1657 Roemera (1961 EA)",1961 EA
+"  1658 Innes (1953 NA)",1953 NA
+"  1659 Punkaharju (1940 YL)",1940 YL
+"  1660 Wood (1953 GA)",1953 GA
+"  1662 Hoffmann (A923 RB)",A923 RB
+"  1664 Felix (1929 CD)",1929 CD
+"  1665 Gaby (1930 DQ)",1930 DQ
+"  1667 Pels (1930 SY)",1930 SY
+"  1669 Dagmar (1934 RS)",1934 RS
+"  1680 Per Brahe (1942 CH)",1942 CH
+"  1681 Steinmetz (1948 WE)",1948 WE
+"  1685 Toro (1948 OA)",1948 OA
+"  1691 Oort (1956 RB)",1956 RB
+"  1692 Subbotina (1936 QD)",1936 QD
+"  1693 Hertzsprung (1935 LA)",1935 LA
+"  1694 Kaiser (1934 SB)",1934 SB
+"  1695 Walbeck (1941 UO)",1941 UO
+"  1700 Zvezdara (1940 QC)",1940 QC
+"  1702 Kalahari (A924 NC)",A924 NC
+"  1705 Tapio (1941 SL1)",1941 SL1
+"  1706 Dieckvoss (1931 TS)",1931 TS
+"  1707 Chantal (1932 RL)",1932 RL
+"  1711 Sandrine (1935 BB)",1935 BB
+"  1715 Salli (1938 GK)",1938 GK
+"  1716 Peter (1934 GF)",1934 GF
+"  1717 Arlon (1954 AC)",1954 AC
+"  1723 Klemola (1936 FX)",1936 FX
+"  1724 Vladimir (1932 DC)",1932 DC
+"  1726 Hoffmeister (1933 OE)",1933 OE
+"  1727 Mette (1965 BA)",1965 BA
+"  1729 Beryl (1963 SL)",1963 SL
+"  1730 Marceline (1936 UA)",1936 UA
+"  1734 Zhongolovich (1928 TJ)",1928 TJ
+"  1738 Oosterhoff (1930 SP)",1930 SP
+"  1740 Paavo Nurmi (1939 UA)",1939 UA
+"  1746 Brouwer (1963 RF)",1963 RF
+"  1747 Wright (1947 NH)",1947 NH
+"  1748 Mauderli (1966 RA)",1966 RA
+"  1750 Eckert (1950 NA1)",1950 NA1
+"  1751 Herget (1955 OC)",1955 OC
+"  1754 Cunningham (1935 FE)",1935 FE
+"  1755 Lorbach (1936 VD)",1936 VD
+"  1765 Wrubel (1957 XB)",1957 XB
+"  1766 Slipher (1962 RF)",1962 RF
+"  1767 Lampland (1962 RJ)",1962 RJ
+"  1768 Appenzella (1965 SA)",1965 SA
+"  1777 Gehrels (4007 P-L)",4007 P-L
+"  1783 Albitskij (1935 FJ)",1935 FJ
+"  1785 Wurm (1941 CD)",1941 CD
+"  1792 Reni (1968 BG)",1968 BG
+"  1794 Finsen (1970 GA)",1970 GA
+"  1795 Woltjer (4010 P-L)",4010 P-L
+"  1796 Riga (1966 KB)",1966 KB
+"  1797 Schaumasse (1936 VH)",1936 VH
+"  1798 Watts (1949 GC)",1949 GC
+"  1799 Koussevitzky (1950 OE)",1950 OE
+"  1807 Slovakia (1971 QA)",1971 QA
+"  1815 Beethoven (1932 CE1)",1932 CE1
+"  1827 Atkinson (1962 RK)",1962 RK
+"  1830 Pogson (1968 HA)",1968 HA
+"  1831 Nicholson (1968 HC)",1968 HC
+"  1836 Komarov (1971 OT)",1971 OT
+"  1839 Ragazza (1971 UF)",1971 UF
+"  1842 Hynek (1972 AA)",1972 AA
+"  1847 Stobbe (A916 CA)",A916 CA
+"  1848 Delvaux (1933 QD)",1933 QD
+"  1856 Ruzena (1969 TW1)",1969 TW1
+"  1857 Parchomenko (1971 QS1)",1971 QS1
+"  1858 Lobachevskij (1972 QL)",1972 QL
+"  1860 Barbarossa (1973 SK)",1973 SK
+"  1862 Apollo (1932 HA)",1932 HA
+"  1863 Antinous (1948 EA)",1948 EA
+"  1864 Daedalus (1971 FA)",1971 FA
+"  1865 Cerberus (1971 UA)",1971 UA
+"  1866 Sisyphus (1972 XA)",1972 XA
+"  1867 Deiphobus (1971 EA)",1971 EA
+"  1882 Rauma (1941 UJ)",1941 UJ
+"  1888 Zu Chong-Zhi (1964 VO1)",1964 VO1
+"  1891 Gondola (1969 RA)",1969 RA
+"  1902 Shaposhnikov (1972 HU)",1972 HU
+"  1903 Adzhimushkaj (1972 JL)",1972 JL
+"  1904 Massevitch (1972 JM)",1972 JM
+"  1911 Schubart (1973 UD)",1973 UD
+"  1915 Quetzalcoatl (1953 EA)",1953 EA
+"  1916 Boreas (1953 RA)",1953 RA
+"  1917 Cuyo (1968 AA)",1968 AA
+"  1919 Clemence (1971 SA)",1971 SA
+"  1920 Sarmiento (1971 VO)",1971 VO
+"  1923 Osiris (4011 P-L)",4011 P-L
+"  1929 Kollaa (1939 BS)",1939 BS
+"  1930 Lucifer (1964 UA)",1964 UA
+"  1931 Capek (1969 QB)",1969 QB
+"  1932 Jansky (1971 UB1)",1971 UB1
+"  1936 Lugano (1973 WD)",1973 WD
+"  1943 Anteros (1973 EC)",1973 EC
+"  1948 Kampala (1935 GL)",1935 GL
+"  1951 Lick (1949 OA)",1949 OA
+"  1952 Hesburgh (1951 JC)",1951 JC
+"  1963 Bezovec (1975 CB)",1975 CB
+"  1968 Mehltretter (1932 BK)",1932 BK
+"  1970 Sumeria (1954 ER)",1954 ER
+"  1977 Shura (1970 QY)",1970 QY
+"  1980 Tezcatlipoca (1950 LA)",1950 LA
+"  1981 Midas (1973 EA)",1973 EA
+"  1989 Tatry (1955 FG)",1955 FG
+"  1990 Pilcher (1956 EE)",1956 EE
+"  1998 Titius (1938 DX1)",1938 DX1
+"  2000 Herschel (1960 OA)",1960 OA
+"  2001 Einstein (1973 EB)",1973 EB
+"  2010 Chebyshev (1969 TL4)",1969 TL4
+"  2019 van Albada (1935 SX1)",1935 SX1
+"  2022 West (1938 CK)",1938 CK
+"  2029 Binomi (1969 RB)",1969 RB
+"  2035 Stearns (1973 SC)",1973 SC
+"  2038 Bistro (1973 WF)",1973 WF
+"  2040 Chalonge (1974 HA)",1974 HA
+"  2042 Sitarski (4633 P-L)",4633 P-L
+"  2045 Peking (1964 TB1)",1964 TB1
+"  2048 Dwornik (1973 QA)",1973 QA
+"  2050 Francis (1974 KA)",1974 KA
+"  2052 Tamriko (1976 UN)",1976 UN
+"  2053 Nuki (1976 UO)",1976 UO
+"  2056 Nancy (A909 TB)",A909 TB
+"  2060 Chiron (1977 UB)",1977 UB
+"  2061 Anza (1960 UA)",1960 UA
+"  2062 Aten (1976 AA)",1976 AA
+"  2063 Bacchus (1977 HB)",1977 HB
+"  2064 Thomsen (1942 RQ)",1942 RQ
+"  2065 Spicer (1959 RN)",1959 RN
+"  2067 Aksnes (1936 DD)",1936 DD
+"  2073 Janacek (1974 DK)",1974 DK
+"  2074 Shoemaker (1974 UA)",1974 UA
+"  2078 Nanking (1975 AD)",1975 AD
+"  2081 Sazava (1976 DH)",1976 DH
+"  2083 Smither (1973 WB)",1973 WB
+"  2085 Henan (1965 YA)",1965 YA
+"  2086 Newell (1966 BC)",1966 BC
+"  2087 Kochera (1975 YC)",1975 YC
+"  2088 Sahlia (1976 DJ)",1976 DJ
+"  2089 Cetacea (1977 VF)",1977 VF
+"  2090 Mizuho (1978 EA)",1978 EA
+"  2099 Opik (1977 VB)",1977 VB
+"  2100 Ra-Shalom (1978 RA)",1978 RA
+"  2102 Tantalus (1975 YA)",1975 YA
+"  2106 Hugo (1936 UF)",1936 UF
+"  2107 Ilmari (1941 VA)",1941 VA
+"  2111 Tselina (1969 LG)",1969 LG
+"  2118 Flagstaff (1978 PB)",1978 PB
+"  2131 Mayall (1975 RA)",1975 RA
+"  2134 Dennispalm (1976 YB)",1976 YB
+"  2139 Makharadze (1970 MC)",1970 MC
+"  2141 Simferopol (1970 QC1)",1970 QC1
+"  2147 Kharadze (1976 US)",1976 US
+"  2151 Hadwiger (1977 VX)",1977 VX
+"  2152 Hannibal (1978 WK)",1978 WK
+"  2156 Kate (A917 SH)",A917 SH
+"  2157 Ashbrook (A924 EF)",A924 EF
+"  2161 Grissom (1963 UD)",1963 UD
+"  2167 Erin (1971 LA)",1971 LA
+"  2169 Taiwan (1964 VP1)",1964 VP1
+"  2185 Guangdong (1965 WO)",1965 WO
+"  2189 Zaragoza (1975 QK)",1975 QK
+"  2194 Arpola (1940 GE)",1940 GE
+"  2196 Ellicott (1965 BC)",1965 BC
+"  2201 Oljato (1947 XC)",1947 XC
+"  2204 Lyyli (1943 EQ)",1943 EQ
+"  2207 Antenor (1977 QH1)",1977 QH1
+"  2208 Pushkin (1977 QL3)",1977 QL3
+"  2212 Hephaistos (1978 SB)",1978 SB
+"  2223 Sarpedon (1977 TL3)",1977 TL3
+"  2231 Durrell (1941 SG)",1941 SG
+"  2234 Schmadel (1977 HD)",1977 HD
+"  2241 Alcathous (1979 WM)",1979 WM
+"  2244 Tesla (1952 UW1)",1952 UW1
+"  2246 Bowell (1979 XH)",1979 XH
+"  2251 Tikhov (1977 SU1)",1977 SU1
+"  2253 Espinette (1932 PB)",1932 PB
+"  2258 Viipuri (1939 TA)",1939 TA
+"  2260 Neoptolemus (1975 WM1)",1975 WM1
+"  2266 Tchaikovsky (1974 VK)",1974 VK
+"  2268 Szmytowna (1942 VW)",1942 VW
+"  2271 Kiso (1976 UV5)",1976 UV5
+"  2272 Montezuma (1972 FA)",1972 FA
+"  2274 Ehrsson (1976 EA)",1976 EA
+"  2278 Gotz (1953 GE)",1953 GE
+"  2279 Barto (1968 DL)",1968 DL
+"  2280 Kunikov (1971 SL2)",1971 SL2
+"  2282 Andres Bello (1974 FE)",1974 FE
+"  2305 King (1980 RJ1)",1980 RJ1
+"  2306 Bauschinger (1939 PM)",1939 PM
+"  2308 Schilt (1967 JM)",1967 JM
+"  2311 El Leoncito (1974 TA1)",1974 TA1
+"  2312 Duboshin (1976 GU2)",1976 GU2
+"  2316 Jo-Ann (1980 RH)",1980 RH
+"  2317 Galya (2524 P-L)",2524 P-L
+"  2328 Robeson (1972 HW)",1972 HW
+"  2331 Parvulesco (1936 EA)",1936 EA
+"  2335 James (1974 UB)",1974 UB
+"  2340 Hathor (1976 UA)",1976 UA
+"  2345 Fucik (1974 OS)",1974 OS
+"  2346 Lilio (1934 CB)",1934 CB
+"  2349 Kurchenko (1970 OG)",1970 OG
+"  2353 Alva (1975 UD)",1975 UD
+"  2354 Lavrov (1978 PZ3)",1978 PZ3
+"  2357 Phereclos (1981 AC)",1981 AC
+"  2363 Cebriones (1977 TJ3)",1977 TJ3
+"  2368 Beltrovata (1977 RA)",1977 RA
+"  2369 Chekhov (1976 GC8)",1976 GC8
+"  2370 van Altena (1965 LA)",1965 LA
+"  2371 Dimitrov (1975 VR3)",1975 VR3
+"  2373 Immo (1929 PC)",1929 PC
+"  2375 Radek (1975 AA)",1975 AA
+"  2378 Pannekoek (1935 CY)",1935 CY
+"  2379 Heiskanen (1941 ST)",1941 ST
+"  2380 Heilongjiang (1965 SN)",1965 SN
+"  2382 Nonie (1977 GA)",1977 GA
+"  2386 Nikonov (1974 SN1)",1974 SN1
+"  2390 Nezarka (1980 PA1)",1980 PA1
+"  2396 Kochi (1981 CB)",1981 CB
+"  2401 Aehlita (1975 VM2)",1975 VM2
+"  2402 Satpaev (1979 OR13)",1979 OR13
+"  2405 Welch (1963 UF)",1963 UF
+"  2407 Haug (1973 DH)",1973 DH
+"  2409 Chapman (1979 UG)",1979 UG
+"  2410 Morrison (1981 AF)",1981 AF
+"  2411 Zellner (1981 JK)",1981 JK
+"  2422 Perovskaya (1968 HK1)",1968 HK1
+"  2423 Ibarruri (1972 NC)",1972 NC
+"  2427 Kobzar (1976 YQ7)",1976 YQ7
+"  2428 Kamenyar (1977 RZ6)",1977 RZ6
+"  2430 Bruce Helin (1977 VC)",1977 VC
+"  2438 Oleshko (1975 VO2)",1975 VO2
+"  2444 Lederle (1934 CD)",1934 CD
+"  2446 Lunacharsky (1971 TS2)",1971 TS2
+"  2448 Sholokhov (1975 BU)",1975 BU
+"  2449 Kenos (1978 GC)",1978 GC
+"  2451 Dollfus (1980 RQ)",1980 RQ
+"  2455 Somville (1950 TO4)",1950 TO4
+"  2465 Wilson (1949 PK)",1949 PK
+"  2467 Kollontai (1966 PJ)",1966 PJ
+"  2468 Repin (1969 TO1)",1969 TO1
+"  2478 Tokai (1981 JC)",1981 JC
+"  2482 Perkin (1980 CO)",1980 CO
+"  2491 Tvashtri (1977 CB)",1977 CB
+"  2493 Elmer (1978 XC)",1978 XC
+"  2501 Lohja (1942 GD)",1942 GD
+"  2504 Gaviola (1967 JO)",1967 JO
+"  2507 Bobone (1976 WB1)",1976 WB1
+"  2508 Alupka (1977 ET1)",1977 ET1
+"  2509 Chukotka (1977 NG)",1977 NG
+"  2510 Shandong (1979 TH)",1979 TH
+"  2511 Patterson (1980 LM)",1980 LM
+"  2521 Heidi (1979 DK)",1979 DK
+"  2527 Gregory (1981 RE)",1981 RE
+"  2547 Hubei (1964 TC2)",1964 TC2
+"  2559 Svoboda (1981 UH)",1981 UH
+"  2560 Siegma (1932 CW)",1932 CW
+"  2566 Kirghizia (1979 FR2)",1979 FR2
+"  2567 Elba (1979 KA)",1979 KA
+"  2569 Madeline (1980 MA)",1980 MA
+"  2575 Bulgaria (1970 PL)",1970 PL
+"  2577 Litva (1975 EE3)",1975 EE3
+"  2579 Spartacus (1977 PA2)",1977 PA2
+"  2582 Harimaya-Bashi (1981 SA)",1981 SA
+"  2598 Merlin (1980 RY)",1980 RY
+"  2604 Marshak (1972 LD1)",1972 LD1
+"  2606 Odessa (1976 GX2)",1976 GX2
+"  2608 Seneca (1978 DA)",1978 DA
+"  2625 Jack London (1976 JQ2)",1976 JQ2
+"  2629 Rudra (1980 RB1)",1980 RB1
+"  2631 Zhejiang (1980 TY5)",1980 TY5
+"  2635 Huggins (1982 DS)",1982 DS
+"  2640 Hallstrom (1941 FN)",1941 FN
+"  2653 Principia (1964 VP)",1964 VP
+"  2659 Millis (1981 JX)",1981 JX
+"  2674 Pandarus (1982 BC3)",1982 BC3
+"  2675 Tolkien (1982 GB)",1982 GB
+"  2681 Ostrovskij (1975 VF2)",1975 VF2
+"  2703 Rodari (1979 FT2)",1979 FT2
+"  2704 Julian Loewe (1979 MR4)",1979 MR4
+"  2708 Burns (1981 WT)",1981 WT
+"  2709 Sagan (1982 FH)",1982 FH
+"  2715 Mielikki (1938 US)",1938 US
+"  2720 Pyotr Pervyj (1972 RV3)",1972 RV3
+"  2724 Orlov (1978 RZ5)",1978 RZ5
+"  2730 Barks (1981 QH)",1981 QH
+"  2732 Witt (1926 FG)",1926 FG
+"  2733 Hamina (1938 DQ)",1938 DQ
+"  2735 Ellen (1977 RB)",1977 RB
+"  2736 Ops (1979 OC)",1979 OC
+"  2737 Kotka (1938 DU)",1938 DU
+"  2744 Birgitta (1975 RB)",1975 RB
+"  2746 Hissao (1979 SJ9)",1979 SJ9
+"  2748 Patrick Gene (1981 JF2)",1981 JF2
+"  2750 Loviisa (1940 YK)",1940 YK
+"  2754 Efimov (1966 PD)",1966 PD
+"  2760 Kacha (1980 TU6)",1980 TU6
+"  2762 Fowler (1981 AT)",1981 AT
+"  2763 Jeans (1982 OG)",1982 OG
+"  2772 Dugan (1979 XE)",1979 XE
+"  2778 Tangshan (1979 XP)",1979 XP
+"  2789 Foshan (1956 XA)",1956 XA
+"  2791 Paradise (1977 CA)",1977 CA
+"  2795 Lepage (1979 YM)",1979 YM
+"  2801 Huygens (1935 SU1)",1935 SU1
+"  2807 Karl Marx (1969 TH6)",1969 TH6
+"  2809 Vernadskij (1978 QW2)",1978 QW2
+"  2813 Zappala (1981 WZ)",1981 WZ
+"  2816 Pien (1982 SO)",1982 SO
+"  2818 Juvenalis (2580 P-L)",2580 P-L
+"  2827 Vellamo (1942 CC)",1942 CC
+"  2830 Greenwich (1980 GA)",1980 GA
+"  2834 Christy Carol (1980 TB4)",1980 TB4
+"  2840 Kallavesi (1941 UP)",1941 UP
+"  2850 Mozhaiskij (1978 TM7)",1978 TM7
+"  2851 Harbin (1978 UQ2)",1978 UQ2
+"  2852 Declercq (1981 QU2)",1981 QU2
+"  2855 Bastian (1931 TB2)",1931 TB2
+"  2857 NOT (1942 DA)",1942 DA
+"  2861 Lambrecht (1981 VL2)",1981 VL2
+"  2864 Soderblom (1983 AZ)",1983 AZ
+"  2872 Gentelec (1981 RU)",1981 RU
+"  2873 Binzel (1982 FR)",1982 FR
+"  2874 Jim Young (1982 TH)",1982 TH
+"  2875 Lagerkvist (1983 CL)",1983 CL
+"  2879 Shimizu (1932 CB1)",1932 CB1
+"  2881 Meiden (1983 AA1)",1983 AA1
+"  2892 Filipenko (1983 AX2)",1983 AX2
+"  2893 Peiroos (1975 QD)",1975 QD
+"  2902 Westerlund (1980 FN3)",1980 FN3
+"  2905 Plaskett (1982 BZ2)",1982 BZ2
+"  2906 Caltech (1983 AE2)",1983 AE2
+"  2911 Miahelena (1938 GJ)",1938 GJ
+"  2912 Lapalma (1942 DM)",1942 DM
+"  2917 Sawyer Hogg (1980 RR)",1980 RR
+"  2925 Beatty (1978 VC5)",1978 VC5
+"  2929 Harris (1982 BK1)",1982 BK1
+"  2930 Euripides (6554 P-L)",6554 P-L
+"  2934 Aristophanes (4006 P-L)",4006 P-L
+"  2949 Kaverznev (1970 PR)",1970 PR
+"  2952 Lilliputia (1979 SF2)",1979 SF2
+"  2953 Vysheslavia (1979 SV11)",1979 SV11
+"  2955 Newburn (1982 BX1)",1982 BX1
+"  2956 Yeomans (1982 HN1)",1982 HN1
+"  2957 Tatsuo (1934 CB1)",1934 CB1
+"  2973 Paola (1951 AJ)",1951 AJ
+"  2977 Chivilikhin (1974 SP)",1974 SP
+"  2988 Korhonen (1943 EM)",1943 EM
+"  2996 Bowman (1954 RJ)",1954 RJ
+"  3000 Leonardo (1981 EG19)",1981 EG19
+"  3007 Reaves (1979 UC)",1979 UC
+"  3020 Naudts (1949 PR)",1949 PR
+"  3028 Zhangguoxi (1978 TA2)",1978 TA2
+"  3037 Alku (1944 BA)",1944 BA
+"  3040 Kozai (1979 BA)",1979 BA
+"  3060 Delcano (1982 RD1)",1982 RD1
+"  3065 Sarahill (1984 CV)",1984 CV
+"  3074 Popov (1979 YE9)",1979 YE9
+"  3085 Donna (1980 DA)",1980 DA
+"  3090 Tjossem (1982 AN)",1982 AN
+"  3096 Bezruc (1981 QC1)",1981 QC1
+"  3102 Krok (1981 QA)",1981 QA
+"  3103 Eger (1982 BB)",1982 BB
+"  3121 Tamines (1981 EV)",1981 EV
+"  3122 Florence (1981 ET3)",1981 ET3
+"  3123 Dunham (1981 QF2)",1981 QF2
+"  3124 Kansas (1981 VB)",1981 VB
+"  3137 Horky (1982 SM1)",1982 SM1
+"  3151 Talbot (1983 HF)",1983 HF
+"  3155 Lee (1984 SP3)",1984 SP3
+"  3169 Ostro (1981 LA)",1981 LA
+"  3170 Dzhanibekov (1979 SS11)",1979 SS11
+"  3175 Netto (1979 YP)",1979 YP
+"  3179 Beruti (1962 FA)",1962 FA
+"  3181 Ahnert (1964 EC)",1964 EC
+"  3192 A''Hearn (1982 BY1)",1982 BY1
+"  3197 Weissman (1981 AD)",1981 AD
+"  3198 Wallonia (1981 YH1)",1981 YH1
+"  3199 Nefertiti (1982 RA)",1982 RA
+"  3200 Phaethon (1983 TB)",1983 TB
+"  3209 Buchwald (1982 BL1)",1982 BL1
+"  3214 Makarenko (1978 TZ6)",1978 TZ6
+"  3216 Harrington (1980 RB)",1980 RB
+"  3224 Irkutsk (1977 RL6)",1977 RL6
+"  3248 Farinella (1982 FK)",1982 FK
+"  3249 Musashino (1977 DT4)",1977 DT4
+"  3254 Bus (1982 UM)",1982 UM
+"  3255 Tholen (1980 RA)",1980 RA
+"  3256 Daguerre (1981 SJ1)",1981 SJ1
+"  3258 Somnium (1983 RJ)",1983 RJ
+"  3262 Miune (1983 WB)",1983 WB
+"  3265 Fletcher (1953 VN2)",1953 VN2
+"  3287 Olmstead (1981 DK1)",1981 DK1
+"  3288 Seleucus (1982 DV)",1982 DV
+"  3306 Byron (1979 SM11)",1979 SM11
+"  3307 Athabasca (1981 DE1)",1981 DE1
+"  3309 Brorfelde (1982 BH)",1982 BH
+"  3311 Podobed (1976 QM1)",1976 QM1
+"  3314 Beals (1981 FH)",1981 FH
+"  3317 Paris (1984 KF)",1984 KF
+"  3320 Namba (1982 VZ4)",1982 VZ4
+"  3340 Yinhai (1979 TK)",1979 TK
+"  3345 Tarkovskij (1982 YC1)",1982 YC1
+"  3349 Manas (1979 FH2)",1979 FH2
+"  3352 McAuliffe (1981 CW)",1981 CW
+"  3363 Bowen (1960 EE)",1960 EE
+"  3364 Zdenka (1984 GF)",1984 GF
+"  3365 Recogne (1985 CG2)",1985 CG2
+"  3367 Alex (1983 CA3)",1983 CA3
+"  3371 Giacconi (1955 RZ)",1955 RZ
+"  3375 Amy (1981 JY1)",1981 JY1
+"  3376 Armandhammer (1982 UJ8)",1982 UJ8
+"  3385 Bronnina (1979 SK11)",1979 SK11
+"  3389 Sinzot (1984 DU)",1984 DU
+"  3394 Banno (1986 DB)",1986 DB
+"  3395 Jitka (1985 UN)",1985 UN
+"  3401 Vanphilos (1981 PA)",1981 PA
+"  3406 Omsk (1969 DA)",1969 DA
+"  3416 Dorrit (1931 VP)",1931 VP
+"  3417 Tamblyn (1937 GG)",1937 GG
+"  3430 Bradfield (1980 TF4)",1980 TF4
+"  3435 Boury (1981 XC2)",1981 XC2
+"  3440 Stampfer (1950 DD)",1950 DD
+"  3443 Leetsungdao (1979 SB1)",1979 SB1
+"  3451 Mentor (1984 HA1)",1984 HA1
+"  3458 Boduognat (1985 RT3)",1985 RT3
+"  3474 Linsley (1962 HE)",1962 HE
+"  3491 Fridolin (1984 SM4)",1984 SM4
+"  3493 Stepanov (1976 GR6)",1976 GR6
+"  3498 Belton (1981 EG14)",1981 EG14
+"  3507 Vilas (1982 UX)",1982 UX
+"  3511 Tsvetaeva (1982 TC2)",1982 TC2
+"  3526 Jeffbell (1984 CN)",1984 CN
+"  3527 McCord (1985 GE1)",1985 GE1
+"  3533 Toyota (1986 UE)",1986 UE
+"  3534 Sax (1936 XA)",1936 XA
+"  3536 Schleicher (1981 EV20)",1981 EV20
+"  3542 Tanjiazhen (1964 TN2)",1964 TN2
+"  3545 Gaffey (1981 WK2)",1981 WK2
+"  3546 Atanasoff (1983 SC)",1983 SC
+"  3551 Verenia (1983 RD)",1983 RD
+"  3552 Don Quixote (1983 SA)",1983 SA
+"  3563 Canterbury (1985 FE)",1985 FE
+"  3566 Levitan (1979 YA9)",1979 YA9
+"  3567 Alvema (1930 VD)",1930 VD
+"  3575 Anyuta (1984 DU2)",1984 DU2
+"  3576 Galina (1984 DB3)",1984 DB3
+"  3579 Rockholt (1977 YA)",1977 YA
+"  3581 Alvarez (1985 HC)",1985 HC
+"  3587 Descartes (1981 RK5)",1981 RK5
+"  3592 Nedbal (1980 CT)",1980 CT
+"  3611 Dabu (1981 YY1)",1981 YY1
+"  3627 Sayers (1973 DS)",1973 DS
+"  3628 Boznemcova (1979 WD)",1979 WD
+"  3630 Lubomir (1984 QN)",1984 QN
+"  3635 Kreutz (1981 WO1)",1981 WO1
+"  3636 Pajdusakova (1982 UJ2)",1982 UJ2
+"  3640 Gostin (1985 TR3)",1985 TR3
+"  3642 Frieden (1953 XL1)",1953 XL1
+"  3645 Fabini (1981 QZ)",1981 QZ
+"  3647 Dermott (1986 AD1)",1986 AD1
+"  3654 AAS (1949 QH1)",1949 QH1
+"  3658 Feldman (1982 TR)",1982 TR
+"  3669 Vertinskij (1982 UO7)",1982 UO7
+"  3670 Northcott (1983 BN)",1983 BN
+"  3671 Dionysus (1984 KD)",1984 KD
+"  3674 Erbisbuhl (1963 RH)",1963 RH
+"  3678 Mongmanwai (1966 BO)",1966 BO
+"  3684 Berry (1983 AK)",1983 AK
+"  3686 Antoku (1987 EB)",1987 EB
+"  3687 Dzus (A908 TC)",A908 TC
+"  3691 Bede (1982 FT)",1982 FT
+"  3700 Geowilliams (1984 UL2)",1984 UL2
+"  3701 Purkyne (1985 DW)",1985 DW
+"  3704 Gaoshiqi (1981 YX1)",1981 YX1
+"  3710 Bogoslovskij (1978 RD6)",1978 RD6
+"  3712 Kraft (1984 YC)",1984 YC
+"  3713 Pieters (1985 FA2)",1985 FA2
+"  3730 Hurban (1983 XM1)",1983 XM1
+"  3734 Waland (9527 P-L)",9527 P-L
+"  3737 Beckman (1983 PA)",1983 PA
+"  3744 Horn-d''Arturo (1983 VE)",1983 VE
+"  3753 Cruithne (1986 TO)",1986 TO
+"  3757 Anagolay (1982 XB)",1982 XB
+"  3759 Piironen (1984 AP)",1984 AP
+"  3762 Amaravella (1976 QN1)",1976 QN1
+"  3767 DiMaggio (1986 LC)",1986 LC
+"  3775 Ellenbeth (1931 TC4)",1931 TC4
+"  3782 Celle (1986 TE)",1986 TE
+"  3788 Steyaert (1986 QM3)",1986 QM3
+"  3792 Preston (1985 FA)",1985 FA
+"  3796 Lene (1986 XJ)",1986 XJ
+"  3800 Karayusuf (1984 AB)",1984 AB
+"  3809 Amici (1984 FA)",1984 FA
+"  3813 Fortov (1970 QA1)",1970 QA1
+"  3819 Robinson (1983 AR)",1983 AR
+"  3824 Brendalee (1929 TK)",1929 TK
+"  3827 Zdenekhorsky (1986 VU)",1986 VU
+"  3829 Gunma (1988 EM)",1988 EM
+"  3831 Pettengill (1986 TP2)",1986 TP2
+"  3833 Calingasta (1971 SC)",1971 SC
+"  3841 Dicicco (1983 VG7)",1983 VG7
+"  3844 Lujiaxi (1966 BZ)",1966 BZ
+"  3849 Incidentia (1984 FC)",1984 FC
+"  3850 Peltier (1986 TK2)",1986 TK2
+"  3853 Haas (1981 WG1)",1981 WG1
+"  3858 Dorchester (1986 TG)",1986 TG
+"  3860 Plovdiv (1986 PM4)",1986 PM4
+"  3861 Lorenz (A910 FA)",A910 FA
+"  3862 Agekian (1972 KM)",1972 KM
+"  3865 Lindbloom (1988 AY4)",1988 AY4
+"  3873 Roddy (1984 WB)",1984 WB
+"  3885 Bogorodskij (1979 HG5)",1979 HG5
+"  3886 Shcherbakovia (1981 RU3)",1981 RU3
+"  3900 Knezevic (1985 RK)",1985 RK
+"  3903 Kliment Ohridski (1987 SV2)",1987 SV2
+"  3908 Nyx (1980 PA)",1980 PA
+"  3910 Liszt (1988 SF)",1988 SF
+"  3920 Aubignan (1948 WF)",1948 WF
+"  3949 Mach (1985 UL)",1985 UL
+"  3958 Komendantov (1953 TC)",1953 TC
+"  3971 Voronikhin (1979 YM8)",1979 YM8
+"  3972 Richard (1981 JD3)",1981 JD3
+"  3976 Lise (1983 JM)",1983 JM
+"  3985 Raybatson (1985 CX)",1985 CX
+"  4001 Ptolemaeus (1949 PV)",1949 PV
+"  4015 Wilson-Harrington (1979 VA)",1979 VA
+"  4033 Yatsugatake (1986 FA)",1986 FA
+"  4034 Vishnu (1986 PA)",1986 PA
+"  4036 Whitehouse (1987 DW5)",1987 DW5
+"  4037 Ikeya (1987 EC)",1987 EC
+"  4039 Souseki (1987 SH)",1987 SH
+"  4051 Hatanaka (1978 VP)",1978 VP
+"  4055 Magellan (1985 DO2)",1985 DO2
+"  4072 Yayoi (1981 UJ4)",1981 UJ4
+"  4082 Swann (1984 SW3)",1984 SW3
+"  4096 Kushiro (1987 VC)",1987 VC
+"  4107 Rufino (1989 GT)",1989 GT
+"  4116 Elachi (1982 SU)",1982 SU
+"  4124 Herriot (1986 SE)",1986 SE
+"  4135 Svetlanov (1966 PG)",1966 PG
+"  4142 Dersu-Uzala (1981 KE)",1981 KE
+"  4156 Okadanoboru (1988 BE)",1988 BE
+"  4157 Izu (1988 XD2)",1988 XD2
+"  4179 Toutatis (1989 AC)",1989 AC
+"  4182 Mount Locke (1951 JQ)",1951 JQ
+"  4183 Cuno (1959 LM)",1959 LM
+"  4188 Kitezh (1979 HX4)",1979 HX4
+"  4194 Sweitzer (1982 RE)",1982 RE
+"  4197 Morpheus (1982 TA)",1982 TA
+"  4200 Shizukagozen (1983 WA)",1983 WA
+"  4205 David Hughes (1985 YP)",1985 YP
+"  4215 Kamo (1987 VE1)",1987 VE1
+"  4222 Nancita (1988 EK1)",1988 EK1
+"  4256 Kagamigawa (1986 TX)",1986 TX
+"  4261 Gekko (1989 BJ)",1989 BJ
+"  4265 Kani (1989 TX)",1989 TX
+"  4272 Entsuji (1977 EG5)",1977 EG5
+"  4276 Clifford (1981 XA)",1981 XA
+"  4280 Simonenko (1985 PF2)",1985 PF2
+"  4284 Kaho (1988 FL3)",1988 FL3
+"  4287 Trisov (1989 RU2)",1989 RU2
+"  4292 Aoba (1989 VO)",1989 VO
+"  4297 Eichhorn (1938 HE)",1938 HE
+"  4299 WIYN (1952 QX)",1952 QX
+"  4304 Geichenko (1973 SW4)",1973 SW4
+"  4305 Clapton (1976 EC)",1976 EC
+"  4311 Zguridi (1978 SY6)",1978 SY6
+"  4327 Ries (1982 KB1)",1982 KB1
+"  4332 Milton (1983 RC)",1983 RC
+"  4340 Dence (1986 JZ)",1986 JZ
+"  4341 Poseidon (1987 KF)",1987 KF
+"  4342 Freud (1987 QO9)",1987 QO9
+"  4343 Tetsuya (1988 AC)",1988 AC
+"  4352 Kyoto (1989 UW1)",1989 UW1
+"  4353 Onizaki (1989 WK1)",1989 WK1
+"  4369 Seifert (1982 OR)",1982 OR
+"  4372 Quincy (1984 TB)",1984 TB
+"  4374 Tadamori (1987 BJ)",1987 BJ
+"  4382 Stravinsky (1989 WQ3)",1989 WQ3
+"  4387 Tanaka (4829 T-2)",4829 T-2
+"  4390 Madreteresa (1976 GO8)",1976 GO8
+"  4396 Gressmann (1981 JH)",1981 JH
+"  4407 Taihaku (1988 TF1)",1988 TF1
+"  4417 Lecar (1931 GC)",1931 GC
+"  4422 Jarre (1942 UA)",1942 UA
+"  4424 Arkhipova (1967 DB)",1967 DB
+"  4426 Roerich (1969 TB6)",1969 TB6
+"  4434 Nikulin (1981 RD5)",1981 RD5
+"  4435 Holt (1983 AG2)",1983 AG2
+"  4451 Grieve (1988 JJ)",1988 JJ
+"  4456 Mawson (1989 OG)",1989 OG
+"  4461 Sayama (1990 EL)",1990 EL
+"  4479 Charlieparker (1985 CP1)",1985 CP1
+"  4491 Otaru (1988 RP)",1988 RP
+"  4503 Cleobulus (1989 WM)",1989 WM
+"  4512 Sinuhe (1939 BM)",1939 BM
+"  4516 Pugovkin (1973 SN6)",1973 SN6
+"  4523 MIT (1981 DM1)",1981 DM1
+"  4534 Rimskij-Korsakov (1986 PV4)",1986 PV4
+"  4536 Drewpinsky (1987 DA6)",1987 DA6
+"  4547 Massachusetts (1990 KP)",1990 KP
+"  4548 Wielen (2538 P-L)",2538 P-L
+"  4558 Janesick (1988 NF)",1988 NF
+"  4570 Runcorn (1985 PR)",1985 PR
+"  4584 Akan (1990 FA)",1990 FA
+"  4591 Bryantsev (1975 VZ)",1975 VZ
+"  4604 Stekarstrom (1987 SK)",1987 SK
+"  4607 Seilandfarm (1987 WR)",1987 WR
+"  4610 Kajov (1989 FO)",1989 FO
+"  4611 Vulkaneifel (1989 GR6)",1989 GR6
+"  4619 Polyakhova (1977 RB7)",1977 RB7
+"  4628 Laplace (1986 RU4)",1986 RU4
+"  4649 Sumoto (1936 YD)",1936 YD
+"  4650 Mori (1950 TF)",1950 TF
+"  4660 Nereus (1982 DB)",1982 DB
+"  4678 Ninian (1990 SS4)",1990 SS4
+"  4682 Bykov (1973 SO4)",1973 SO4
+"  4686 Maisica (1979 SX2)",1979 SX2
+"  4688 (1980 WF)",1980 WF
+"  4701 Milani (1986 VW6)",1986 VW6
+"  4702 Berounka (1987 HW)",1987 HW
+"  4706 Dennisreuter (1988 DR)",1988 DR
+"  4711 Kathy (1989 KD)",1989 KD
+"  4713 Steel (1989 QL)",1989 QL
+"  4718 Araki (1990 VP3)",1990 VP3
+"  4719 Burnaby (1990 WT2)",1990 WT2
+"  4726 Federer (1976 SV10)",1976 SV10
+"  4733 ORO (1982 HB2)",1982 HB2
+"  4737 Kiladze (1985 QO6)",1985 QO6
+"  4744 Rovereto (1988 RF5)",1988 RF5
+"  4748 Tokiwagozen (1989 WV)",1989 WV
+"  4750 Mukai (1990 XC1)",1990 XC1
+"  4767 Sutoku (1987 GC)",1987 GC
+"  4774 Hobetsu (1991 CV1)",1991 CV1
+"  4786 Tatianina (1985 PE2)",1985 PE2
+"  4796 Lewis (1989 LU)",1989 LU
+"  4804 Pasteur (1989 XC1)",1989 XC1
+"  4817 Gliba (1984 DC1)",1984 DC1
+"  4824 Stradonice (1986 WL1)",1986 WL1
+"  4838 Billmclaughlin (1989 NJ)",1989 NJ
+"  4839 Daisetsuzan (1989 QG)",1989 QG
+"  4844 Matsuyama (1991 BA2)",1991 BA2
+"  4845 Tsubetsu (1991 EC1)",1991 EC1
+"  4849 Ardenne (1936 QV)",1936 QV
+"  4853 Marielukac (1979 ML)",1979 ML
+"  4884 Bragaria (1979 OK15)",1979 OK15
+"  4900 Maymelou (1988 ME)",1988 ME
+"  4909 Couteau (1949 SA1)",1949 SA1
+"  4910 Kawasato (1953 PR)",1953 PR
+"  4917 Yurilvovia (1973 SC6)",1973 SC6
+"  4923 Clarke (1981 EO27)",1981 EO27
+"  4942 Munroe (1987 DU6)",1987 DU6
+"  4944 Kozlovskij (1987 RP3)",1987 RP3
+"  4945 Ikenozenni (1987 SJ)",1987 SJ
+"  4947 Ninkasi (1988 TJ1)",1988 TJ1
+"  4950 House (1988 XO1)",1988 XO1
+"  4951 Iwamoto (1990 BM)",1990 BM
+"  4954 Eric (1990 SQ)",1990 SQ
+"  4957 Brucemurray (1990 XJ)",1990 XJ
+"  4968 Suzamur (1986 PQ)",1986 PQ
+"  4969 Lawrence (1986 TU)",1986 TU
+"  4977 Rauthgundis (2018 P-L)",2018 P-L
+"  4982 Bartini (1977 PE1)",1977 PE1
+"  4993 Cossard (1983 GR)",1983 GR
+"  4995 Griffin (1984 QR)",1984 QR
+"  4997 Ksana (1986 TM)",1986 TM
+"  5008 Miyazawakenji (1991 DV)",1991 DV
+"  5010 Amenemhet (4594 P-L)",4594 P-L
+"  5013 Suzhousanzhong (1964 VT1)",1964 VT1
+"  5038 Overbeek (1948 KF)",1948 KF
+"  5051 Ralph (1984 SM)",1984 SM
+"  5067 Occidental (1990 OX)",1990 OX
+"  5069 Tokeidai (1991 QB)",1991 QB
+"  5079 Brubeck (1975 DB)",1975 DB
+"  5081 Sanguin (1976 WC1)",1976 WC1
+"  5087 Emel''yanov (1978 RM2)",1978 RM2
+"  5091 Isakovskij (1981 SD4)",1981 SD4
+"  5102 Benfranklin (1986 RD1)",1986 RD1
+"  5103 Divis (1986 RP1)",1986 RP1
+"  5108 Lubeck (1987 QG2)",1987 QG2
+"  5111 Jacliff (1987 SE4)",1987 SE4
+"  5131 (1990 BG)",1990 BG
+"  5133 Phillipadams (1990 PA)",1990 PA
+"  5134 Ebilson (1990 SM2)",1990 SM2
+"  5142 Okutama (1990 YD)",1990 YD
+"  5143 Heracles (1991 VL)",1991 VL
+"  5145 Pholus (1992 AD)",1992 AD
+"  5159 Burbine (1977 RG)",1977 RG
+"  5184 Cavaille-Coll (1990 QY7)",1990 QY7
+"  5195 Kaendler (3289 T-1)",3289 T-1
+"  5196 Bustelli (3102 T-2)",3102 T-2
+"  5208 Royer (1989 CH1)",1989 CH1
+"  5214 Oozora (1990 VN3)",1990 VN3
+"  5222 Ioffe (1980 TL13)",1980 TL13
+"  5227 Bocacara (1986 PE)",1986 PE
+"  5230 Asahina (1988 EF)",1988 EF
+"  5234 Sechenov (1989 VP)",1989 VP
+"  5240 Kwasan (1990 XE)",1990 XE
+"  5242 Kenreimonin (1991 BO)",1991 BO
+"  5243 Clasien (1246 T-2)",1246 T-2
+"  5253 Fredclifford (1985 XB)",1985 XB
+"  5261 Eureka (1990 MB)",1990 MB
+"  5275 Zdislava (1986 UU)",1986 UU
+"  5294 Onnetoh (1991 CB)",1991 CB
+"  5318 Dientzenhofer (1985 HG1)",1985 HG1
+"  5329 Decaro (1989 YP)",1989 YP
+"  5330 Senrikyu (1990 BQ1)",1990 BQ1
+"  5333 Kanaya (1990 UH)",1990 UH
+"  5344 Ryabov (1978 RN)",1978 RN
+"  5348 Kennoguchi (1988 BB)",1988 BB
+"  5349 Paulharris (1988 RA)",1988 RA
+"  5364 (1980 RC1)",1980 RC1
+"  5379 Abehiroshi (1991 HG)",1991 HG
+"  5392 Parker (1986 AK)",1986 AK
+"  5397 Vojislava (1988 VB5)",1988 VB5
+"  5401 Minamioda (1989 EV)",1989 EV
+"  5407 (1992 AX)",1992 AX
+"  5416 Estremadoyro (1978 VE5)",1978 VE5
+"  5438 Lorre (1990 QJ)",1990 QJ
+"  5448 Siebold (1992 SP)",1992 SP
+"  5467 (1988 AG)",1988 AG
+"  5482 Korankei (1990 DX)",1990 DX
+"  5485 Kaula (1991 RQ21)",1991 RQ21
+"  5492 Thoma (3227 T-1)",3227 T-1
+"  5510 (1988 RF7)",1988 RF7
+"  5534 (1941 UN)",1941 UN
+"  5552 Studnicka (1982 SJ1)",1982 SJ1
+"  5553 Chodas (1984 CM1)",1984 CM1
+"  5563 (1991 VZ1)",1991 VZ1
+"  5565 Ukyounodaibu (1991 VN2)",1991 VN2
+"  5576 Albanese (1986 UM1)",1986 UM1
+"  5585 Parks (1990 MJ)",1990 MJ
+"  5587 (1990 SB)",1990 SB
+"  5588 Jennabelle (1990 SW3)",1990 SW3
+"  5591 Koyo (1990 VF2)",1990 VF2
+"  5595 Roth (1991 PJ)",1991 PJ
+"  5604 (1992 FE)",1992 FE
+"  5610 Balster (2041 T-3)",2041 T-3
+"  5622 (1990 TL4)",1990 TL4
+"  5626 (1991 FE)",1991 FE
+"  5632 Ingelehmann (1993 GG)",1993 GG
+"  5641 McCleese (1990 DJ)",1990 DJ
+"  5646 (1990 TR)",1990 TR
+"  5647 (1990 TZ)",1990 TZ
+"  5649 Donnashirley (1990 WZ2)",1990 WZ2
+"  5660 (1974 MA)",1974 MA
+"  5678 DuBridge (1989 TS)",1989 TS
+"  5685 Sanenobufukui (1990 XA)",1990 XA
+"  5690 (1992 EU)",1992 EU
+"  5732 (1988 WC)",1988 WC
+"  5751 Zao (1992 AC)",1992 AC
+"  5817 Robertfrazer (1989 RZ)",1989 RZ
+"  5828 (1991 AM)",1991 AM
+"  5836 (1993 MF)",1993 MF
+"  5840 Raybrown (1978 ON)",1978 ON
+"  5892 Milesdavis (1981 YS1)",1981 YS1
+"  5956 d''Alembert (1988 CF5)",1988 CF5
+"  5965 (1990 SV15)",1990 SV15
+"  6005 (1989 BD)",1989 BD
+"  6047 (1991 TB1)",1991 TB1
+"  6053 (1993 BW3)",1993 BW3
+"  6071 Sakitama (1992 AS1)",1992 AS1
+"  6077 Messner (1980 TM)",1980 TM
+"  6078 Burt (1980 TC5)",1980 TC5
+"  6086 (1987 VU)",1987 VU
+"  6129 Demokritos (1989 RB2)",1989 RB2
+"  6146 Adamkrafft (3262 T-2)",3262 T-2
+"  6192 (1990 KB1)",1990 KB1
+"  6211 Tsubame (1991 DO)",1991 DO
+"  6230 (1984 SG1)",1984 SG1
+"  6233 Kimura (1986 CG)",1986 CG
+"  6249 Jennifer (1991 JF1)",1991 JF1
+"  6283 (1980 VX1)",1980 VX1
+"  6354 Vangelis (1934 GA)",1934 GA
+"  6364 Casarini (1981 ET)",1981 ET
+"  6386 Keithnoll (1989 NK1)",1989 NK1
+"  6410 Fujiwara (1992 WO4)",1992 WO4
+"  6455 (1992 HE)",1992 HE
+"  6489 Golevka (1991 JX)",1991 JX
+"  6500 Kodaira (1993 ET)",1993 ET
+"  6509 Giovannipratesi (1983 CQ3)",1983 CQ3
+"  6569 Ondaatje (1993 MO)",1993 MO
+"  6582 Flagsymphony (1981 VS)",1981 VS
+"  6585 O''Keefe (1984 SR)",1984 SR
+"  6592 Goya (1986 TB12)",1986 TB12
+"  6611 (1993 VW)",1993 VW
+"  6669 Obi (1994 JA1)",1994 JA1
+"  6704 (1988 CJ)",1988 CJ
+"  6716 (1990 RO1)",1990 RO1
+"  6782 (1990 SU10)",1990 SU10
+"  6847 Kunz-Hallstein (1977 RL)",1977 RL
+"  6906 Johnmills (1990 WC)",1990 WC
+"  6907 Harryford (1990 WE)",1990 WE
+"  6908 Kunimoto (1990 WB3)",1990 WB3
+"  7056 Kierkegaard (1989 SE2)",1989 SE2
+"  7081 Ludibunda (1987 QF7)",1987 QF7
+"  7110 Johnpearse (1983 XH1)",1983 XH1
+"  7170 Livesey (1987 MK)",1987 MK
+"  7211 Xerxes (1240 T-1)",1240 T-1
+"  7224 Vesnina (1982 TK3)",1982 TK3
+"  7225 Huntress (1983 BH)",1983 BH
+"  7245 (1991 RN10)",1991 RN10
+"  7304 Namiki (1994 AE2)",1994 AE2
+"  7336 Saunders (1989 RS1)",1989 RS1
+"  7341 (1991 VK)",1991 VK
+"  7358 Oze (1995 YA3)",1995 YA3
+"  7397 (1986 QS)",1986 QS
+"  7402 (1987 YH)",1987 YH
+"  7404 (1988 AA5)",1988 AA5
+"  7405 (1988 FF)",1988 FF
+"  7451 Verbitskaya (1978 PU2)",1978 PU2
+"  7474 (1992 TC)",1992 TC
+"  7480 Norwan (1994 PC)",1994 PC
+"  7482 (1994 PC1)",1994 PC1
+"  7512 Monicalazzarin (1983 CA1)",1983 CA1
+"  7562 Kagiroino-Oka (1986 WO9)",1986 WO9
+"  7564 Gokumenon (1988 CA)",1988 CA
+"  7604 Kridsadaporn (1995 QY2)",1995 QY2
+"  7728 Giblin (1977 AW2)",1977 AW2
+"  7753 (1988 XB)",1988 XB
+"  7763 Crabeels (1990 UT5)",1990 UT5
+"  7817 Zibiturtle (1988 RH10)",1988 RH10
+"  7822 (1991 CS)",1991 CS
+"  7888 (1993 UC)",1993 UC
+"  7889 (1994 LX)",1994 LX
+"  7977 (1977 QQ5)",1977 QQ5
+"  8008 (1988 TQ4)",1988 TQ4
+"  8176 (1991 WA)",1991 WA
+"  8201 (1994 AH2)",1994 AH2
+"  8333 (1982 VF)",1982 VF
+"  8334 (1984 CF)",1984 CF
+"  8450 Egorov (1977 QL1)",1977 QL1
+"  8513 (1991 PK11)",1991 PK11
+"  8516 Hyakkai (1991 TW1)",1991 TW1
+"  8566 (1996 EN)",1996 EN
+"  9400 (1994 TW1)",1994 TW1
+"  9969 Braille (1992 KD)",1992 KD
+"  9970 (1992 ST1)",1992 ST1
+" 10115 (1992 SK)",1992 SK
+" 10165 (1995 BL2)",1995 BL2
+" 10199 Chariklo (1997 CU26)",1997 CU26
+" 10302 (1989 ML)",1989 ML
+" 10473 (1981 EL21)",1981 EL21
+" 10504 Doga (1987 UF5)",1987 UF5
+" 10563 Izhdubar (1993 WD)",1993 WD
+" 11066 Sigurd (1992 CC1)",1992 CC1
+" 11311 Peleus (1993 XN2)",1993 XN2
+" 11398 (1998 YP11)",1998 YP11
+" 11405 (1999 CV3)",1999 CV3
+" 11500 Tomaiyowit (1989 UR)",1989 UR
+" 11785 Migaic (1973 AW3)",1973 AW3
+" 11906 (1992 AE1)",1992 AE1
+" 12281 Chaumont (1990 WA5)",1990 WA5
+" 12538 (1998 OH)",1998 OH
+" 12711 Tukmit (1991 BB)",1991 BB
+" 12746 Yumeginga (1992 WC1)",1992 WC1
+" 12923 Zephyr (1999 GK4)",1999 GK4
+" 13651 (1997 BR)",1997 BR
+" 14402 (1991 DB)",1991 DB
+" 15745 Yuliya (1991 PM5)",1991 PM5
+" 15817 Lucianotesi (1994 QC)",1994 QC
+" 16064 Davidharvey (1999 RH27)",1999 RH27
+" 16657 (1993 UB)",1993 UB
+" 16834 (1997 WU22)",1997 WU22
+" 16960 (1998 QS52)",1998 QS52
+" 17274 (2000 LC16)",2000 LC16
+" 17480 (1991 PE10)",1991 PE10
+" 17511 (1992 QN)",1992 QN
+" 18514 (1996 TE11)",1996 TE11
+" 18736 (1998 NU)",1998 NU
+" 18882 (1999 YN4)",1999 YN4
+" 19356 (1997 GH3)",1997 GH3
+" 20043 Ellenmacarthur (1993 EM)",1993 EM
+" 20255 (1998 FX2)",1998 FX2
+" 20425 (1998 VD35)",1998 VD35
+" 20790 (2000 SE45)",2000 SE45
+" 20826 (2000 UV13)",2000 UV13
+" 22099 (2000 EX106)",2000 EX106
+" 22449 Ottijeff (1996 VC)",1996 VC
+" 22771 (1999 CU3)",1999 CU3
+" 23548 (1994 EF2)",1994 EF2
+" 24475 (2000 VN2)",2000 VN2
+" 25143 Itokawa (1998 SF36)",1998 SF36
+" 25330 (1999 KV4)",1999 KV4
+" 26209 (1997 RD1)",1997 RD1
+" 31345 (1998 PG)",1998 PG
+" 31346 (1998 PB1)",1998 PB1
+" 32906 (1994 RH)",1994 RH
+" 35107 (1991 VH)",1991 VH
+" 35396 (1997 XF11)",1997 XF11
+" 35432 (1998 BG9)",1998 BG9
+" 35670 (1998 SU27)",1998 SU27
+" 36017 (1999 ND43)",1999 ND43
+" 36183 (1999 TX16)",1999 TX16
+" 36284 (2000 DM8)",2000 DM8
+" 37336 (2001 RM)",2001 RM
+" 40267 (1999 GJ4)",1999 GJ4
+" 40310 (1999 KU4)",1999 KU4
+" 47035 (1998 WS)",1998 WS
+" 48603 (1995 BC2)",1995 BC2
+" 53319 (1999 JM8)",1999 JM8
+" 53435 (1999 VM40)",1999 VM40
+" 54686 (2001 DU8)",2001 DU8
+" 54690 (2001 EB)",2001 EB
+" 55532 (2001 WG2)",2001 WG2
+" 65679 (1989 UQ)",1989 UQ
+" 65706 (1992 NA)",1992 NA
+" 65803 Didymos (1996 GT)",1996 GT
+" 66391 (1999 KW4)",1999 KW4
+" 66959 (1999 XO35)",1999 XO35
+" 85490 (1997 SE5)",1997 SE5
+" 85774 (1998 UT18)",1998 UT18
+" 85818 (1998 XM4)",1998 XM4
+" 85938 (1999 DJ4)",1999 DJ4
+" 85953 (1999 FK21)",1999 FK21
+" 85989 (1999 JD6)",1999 JD6
+" 85990 (1999 JV6)",1999 JV6
+" 86039 (1999 NC43)",1999 NC43
+" 86326 (1999 WK13)",1999 WK13
+" 86450 (2000 CK33)",2000 CK33
+" 86819 (2000 GK137)",2000 GK137
+" 86829 (2000 GR146)",2000 GR146
+" 89355 (2001 VS78)",2001 VS78
+" 96177 (1984 BC)",1984 BC
+" 96590 (1998 XB)",1998 XB
+" 98943 (2001 CC21)",2001 CC21
+" 99907 (1989 VA)",1989 VA
+" 99913 (1997 CZ5)",1997 CZ5
+" 99942 Apophis (2004 MN4)",2004 MN4
+"100480 (1996 UK)",1996 UK
+"100756 (1998 FM5)",1998 FM5
+"100926 (1998 MQ)",1998 MQ
+"129493 (1995 BM2)",1995 BM2
+"136564 (1977 VA)",1977 VA
+"136745 (1995 WL8)",1995 WL8
+"136793 (1997 AQ18)",1997 AQ18
+"136795 (1997 BQ)",1997 BQ
+"136993 (1998 ST49)",1998 ST49
+"137052 Tjelvar (1998 VO33)",1998 VO33
+"137062 (1998 WM)",1998 WM
+"137064 (1998 WP5)",1998 WP5
+"137126 (1999 CF9)",1999 CF9
+"137158 (1999 FB)",1999 FB
+"137170 (1999 HF1)",1999 HF1
+"137799 (1999 YB)",1999 YB
+"137805 (1999 YK5)",1999 YK5
+"137925 (2000 BJ19)",2000 BJ19
+"138205 (2000 EZ148)",2000 EZ148
+"138258 (2000 GD2)",2000 GD2
+"138325 (2000 GO82)",2000 GO82
+"138524 (2000 OJ8)",2000 OJ8
+"138893 (2000 YH66)",2000 YH66
+"138911 (2001 AE2)",2001 AE2
+"139056 (2001 FY)",2001 FY
+"139622 (2001 QQ142)",2001 QQ142
+"141052 (2001 XR1)",2001 XR1
+"141079 (2001 XS30)",2001 XS30
+"152560 (1991 BN)",1991 BN
+"152563 (1992 BF)",1992 BF
+"152679 (1998 KU2)",1998 KU2
+"152756 (1999 JV3)",1999 JV3
+"152931 (2000 EA107)",2000 EA107
+"152978 (2000 GJ147)",2000 GJ147
+"153002 (2000 JG5)",2000 JG5
+"153201 (2000 WO107)",2000 WO107
+"153953 (2002 AD9)",2002 AD9
+"161989 Cacus (1978 CA)",1978 CA
+"162011 Konnohmaru (1994 AB1)",1994 AB1
+"162015 (1994 TF2)",1994 TF2
+"162142 (1998 VR)",1998 VR
+"162157 (1999 CV8)",1999 CV8
+"162173 Ryugu (1999 JU3)",1999 JU3
+"162385 (2000 BM19)",2000 BM19
+"162567 (2000 RW37)",2000 RW37
+"162740 (2000 WF6)",2000 WF6
+"162781 (2000 XL44)",2000 XL44
+"162998 (2001 SK162)",2001 SK162
+"163014 (2001 UA5)",2001 UA5
+"171839 (2001 JM1)",2001 JM1
+"175706 (1996 FG3)",1996 FG3
+"175729 (1998 BB10)",1998 BB10
+"189040 (2000 MU1)",2000 MU1
+"192563 (1998 WZ6)",1998 WZ6
+"194006 (2001 SG10)",2001 SG10
+"194268 (2001 UY4)",2001 UY4
+"194386 (2001 VG5)",2001 VG5
+"200754 (2001 WA25)",2001 WA25
+"200840 (2001 XN254)",2001 XN254
+"203015 (1999 YF3)",1999 YF3
+"205744 (2002 BK25)",2002 BK25
+"207970 (1996 BZ3)",1996 BZ3
+"208023 (1999 AQ10)",1999 AQ10
+"215188 (2000 NM)",2000 NM
+"219071 (1997 US9)",1997 US9
+"222165 (2000 AX93)",2000 AX93
+"228368 (2000 WK10)",2000 WK10
+"257838 (2000 JQ66)",2000 JQ66
+"276049 (2002 CE26)",2002 CE26
+"283460 (2001 PD1)",2001 PD1
+"285540 (2000 GU127)",2000 GU127
+"302311 (2002 AA)",2002 AA
+"307161 (2002 DY3)",2002 DY3
+"308635 (2005 YU55)",2005 YU55
+"310402 (1999 EE5)",1999 EE5
+"322652 (1999 JO8)",1999 JO8
+"322775 (2001 HA8)",2001 HA8
+"337066 (1998 BM10)",1998 BM10
+"337866 (2001 WL15)",2001 WL15
+"344074 (1997 UH9)",1997 UH9
+"350513 (2000 BG19)",2000 BG19
+"353938 (1998 QR15)",1998 QR15
+"354127 (2002 BP26)",2002 BP26
+"354182 (2002 DU3)",2002 DU3
+"357022 (1999 YG3)",1999 YG3
+"363067 (2000 CO101)",2000 CO101
+"370061 (2000 YO29)",2000 YO29
+"376713 (1995 WQ5)",1995 WQ5
+"380188 (2000 WC67)",2000 WC67
+"385186 (1994 AW1)",1994 AW1
+"399433 (2001 YK4)",2001 YK4
+"401857 (2000 PG3)",2000 PG3
+"405058 (2001 TX16)",2001 TX16
+"413021 (2000 SY162)",2000 SY162
+"413038 (2001 MF1)",2001 MF1
+"413123 (2001 XS1)",2001 XS1
+"415690 (1992 UB)",1992 UB
+"415949 (2001 XY10)",2001 XY10
+"422686 (2000 AC6)",2000 AC6
+"437905 (2001 XU30)",2001 XU30
+"446804 (1999 VN6)",1999 VN6
+"455213 (2001 OE84)",2001 OE84
+"       (1991 XB)",1991 XB
+"       (1993 TQ2)",1993 TQ2
+"       (1996 FQ3)",1996 FQ3
+"       (1996 PW)",1996 PW
+"       (1997 AC11)",1997 AC11
+"       (1997 GL3)",1997 GL3
+"       (1997 RT)",1997 RT
+"       (1997 TT25)",1997 TT25
+"       (1998 BT13)",1998 BT13
+"       (1998 HT31)",1998 HT31
+"       (1998 MW5)",1998 MW5
+"       (1998 SG2)",1998 SG2
+"       (1999 CW8)",1999 CW8
+"       (1999 DB2)",1999 DB2
+"       (1999 DY2)",1999 DY2
+"       (1999 FA)",1999 FA
+"       (1999 FN19)",1999 FN19
+"       (1999 JE1)",1999 JE1
+"       (1999 RB32)",1999 RB32
+"       (1999 SE10)",1999 SE10
+"       (1999 SK10)",1999 SK10
+"       (1999 VQ5)",1999 VQ5
+"       (1999 YD)",1999 YD
+"       (2000 AE205)",2000 AE205
+"       (2000 AH205)",2000 AH205
+"       (2000 CN33)",2000 CN33
+"       (2000 CE59)",2000 CE59
+"       (2000 DO1)",2000 DO1
+"       (2000 DO8)",2000 DO8
+"       (2000 GV127)",2000 GV127
+"       (2000 KL33)",2000 KL33
+"       (2000 WJ10)",2000 WJ10
+"       (2000 WL10)",2000 WL10
+"       (2000 WJ63)",2000 WJ63
+"       (2000 WL63)",2000 WL63
+"       (2000 WM63)",2000 WM63
+"       (2000 YA)",2000 YA
+"       (2000 YF29)",2000 YF29
+"       (2001 EC)",2001 EC
+"       (2001 HW15)",2001 HW15
+"       (2001 HK31)",2001 HK31
+"       (2001 JV1)",2001 JV1
+"       (2001 QA143)",2001 QA143
+"       (2001 SJ262)",2001 SJ262
+"       (2001 SG286)",2001 SG286
+"       (2001 TY44)",2001 TY44
+"       (2001 TC45)",2001 TC45
+"       (2001 UC5)",2001 UC5
+"       (2001 UU92)",2001 UU92
+"       (2001 WH2)",2001 WH2
+"       (2001 YE1)",2001 YE1
+"       (2002 AV)",2002 AV
+"       (2002 AQ2)",2002 AQ2
+"       (2002 AT4)",2002 AT4
+"       (2002 AU5)",2002 AU5
+"       (2002 AK14)",2002 AK14
+"       (2002 AL14)",2002 AL14
+"       (2002 AH29)",2002 AH29
+"       (2002 AL31)",2002 AL31
+"       (2002 BA1)",2002 BA1
+"       (2002 BM26)",2002 BM26
+"       (2002 CS11)",2002 CS11
+"       (2002 CT46)",2002 CT46
+"       (2002 DH2)",2002 DH2
+"       (2002 DO3)",2002 DO3
+"       (2002 DQ3)",2002 DQ3
+"       (2002 EA)",2002 EA
+"       (2002 EC)",2002 EC
